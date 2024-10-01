@@ -1,0 +1,1321 @@
+﻿Area Name,Sex,Age group,Life expectancy (years) ,Lower confidence interval,upper CI,Countries
+Scotland,Male,<1,76.54,76.44,76.63,Scotland
+Scotland,Male,01 to 04,75.8,75.71,75.89,Scotland
+Scotland,Male,05 to 09,71.85,71.76,71.93,Scotland
+Scotland,Male,10 to 14,66.87,66.78,66.96,Scotland
+Scotland,Male,15 to 19,61.91,61.82,61.99,Scotland
+Scotland,Male,20 to 24,57.04,56.95,57.12,Scotland
+Scotland,Male,25 to 29,52.24,52.16,52.33,Scotland
+Scotland,Male,30 to 34,47.48,47.4,47.56,Scotland
+Scotland,Male,35 to 39,42.78,42.7,42.85,Scotland
+Scotland,Male,40 to 44,38.19,38.11,38.27,Scotland
+Scotland,Male,45 to 49,33.73,33.65,33.8,Scotland
+Scotland,Male,50 to 54,29.41,29.34,29.48,Scotland
+Scotland,Male,55 to 59,25.23,25.17,25.29,Scotland
+Scotland,Male,60 to 64,21.17,21.11,21.23,Scotland
+Scotland,Male,65 to 69,17.33,17.27,17.39,Scotland
+Scotland,Male,70 to 74,13.78,13.73,13.83,Scotland
+Scotland,Male,75 to 79,10.55,10.5,10.6,Scotland
+Scotland,Male,80 to 84,7.82,7.77,7.87,Scotland
+Scotland,Male,85 to 89,5.63,5.58,5.69,Scotland
+Scotland,Male,90+,4.03,3.95,4.1,Scotland
+Edinburgh,Male,<1,77.78,77.48,78.09,Scotland
+Edinburgh,Male,01 to 04,77.04,76.74,77.33,Scotland
+Edinburgh,Male,05 to 09,73.1,72.81,73.39,Scotland
+Edinburgh,Male,10 to 14,68.12,67.83,68.4,Scotland
+Edinburgh,Male,15 to 19,63.14,62.86,63.43,Scotland
+Edinburgh,Male,20 to 24,58.24,57.96,58.52,Scotland
+Edinburgh,Male,25 to 29,53.38,53.1,53.66,Scotland
+Edinburgh,Male,30 to 34,48.5,48.22,48.77,Scotland
+Edinburgh,Male,35 to 39,43.67,43.4,43.94,Scotland
+Edinburgh,Male,40 to 44,38.94,38.68,39.21,Scotland
+Edinburgh,Male,45 to 49,34.35,34.09,34.61,Scotland
+Edinburgh,Male,50 to 54,29.95,29.7,30.2,Scotland
+Edinburgh,Male,55 to 59,25.66,25.42,25.9,Scotland
+Edinburgh,Male,60 to 64,21.65,21.42,21.88,Scotland
+Edinburgh,Male,65 to 69,17.82,17.6,18.03,Scotland
+Edinburgh,Male,70 to 74,14.24,14.04,14.45,Scotland
+Edinburgh,Male,75 to 79,10.98,10.78,11.18,Scotland
+Edinburgh,Male,80 to 84,8.2,8.01,8.39,Scotland
+Edinburgh,Male,85 to 89,5.91,5.72,6.11,Scotland
+Edinburgh,Male,90+,4.22,3.95,4.49,Scotland
+East Dunbartonshire,Male,<1,79.95,79.31,80.58,Scotland
+East Dunbartonshire,Male,01 to 04,79.06,78.45,79.67,Scotland
+East Dunbartonshire,Male,05 to 09,75.06,74.45,75.67,Scotland
+East Dunbartonshire,Male,10 to 14,70.06,69.45,70.67,Scotland
+East Dunbartonshire,Male,15 to 19,65.06,64.45,65.67,Scotland
+East Dunbartonshire,Male,20 to 24,60.26,59.67,60.86,Scotland
+East Dunbartonshire,Male,25 to 29,55.49,54.92,56.06,Scotland
+East Dunbartonshire,Male,30 to 34,50.7,50.15,51.25,Scotland
+East Dunbartonshire,Male,35 to 39,46.07,45.55,46.59,Scotland
+East Dunbartonshire,Male,40 to 44,41.32,40.82,41.82,Scotland
+East Dunbartonshire,Male,45 to 49,36.58,36.11,37.06,Scotland
+East Dunbartonshire,Male,50 to 54,32.06,31.61,32.51,Scotland
+East Dunbartonshire,Male,55 to 59,27.57,27.15,28,Scotland
+East Dunbartonshire,Male,60 to 64,23.27,22.86,23.67,Scotland
+East Dunbartonshire,Male,65 to 69,19.01,18.63,19.39,Scotland
+East Dunbartonshire,Male,70 to 74,14.93,14.57,15.29,Scotland
+East Dunbartonshire,Male,75 to 79,11.32,10.97,11.66,Scotland
+East Dunbartonshire,Male,80 to 84,8.34,8.02,8.67,Scotland
+East Dunbartonshire,Male,85 to 89,5.86,5.53,6.18,Scotland
+East Dunbartonshire,Male,90+,3.98,3.53,4.42,Scotland
+Glasgow City,Male,<1,72.95,72.67,73.22,Scotland
+Glasgow City,Male,01 to 04,72.21,71.95,72.48,Scotland
+Glasgow City,Male,05 to 09,68.25,67.99,68.51,Scotland
+Glasgow City,Male,10 to 14,63.26,63,63.52,Scotland
+Glasgow City,Male,15 to 19,58.3,58.04,58.55,Scotland
+Glasgow City,Male,20 to 24,53.41,53.15,53.66,Scotland
+Glasgow City,Male,25 to 29,48.56,48.31,48.81,Scotland
+Glasgow City,Male,30 to 34,43.72,43.47,43.97,Scotland
+Glasgow City,Male,35 to 39,39.01,38.76,39.25,Scotland
+Glasgow City,Male,40 to 44,34.39,34.15,34.64,Scotland
+Glasgow City,Male,45 to 49,30.01,29.78,30.25,Scotland
+Glasgow City,Male,50 to 54,25.99,25.77,26.21,Scotland
+Glasgow City,Male,55 to 59,22.2,22,22.41,Scotland
+Glasgow City,Male,60 to 64,18.52,18.33,18.72,Scotland
+Glasgow City,Male,65 to 69,15.16,14.97,15.35,Scotland
+Glasgow City,Male,70 to 74,12.07,11.89,12.25,Scotland
+Glasgow City,Male,75 to 79,9.31,9.13,9.49,Scotland
+Glasgow City,Male,80 to 84,7.1,6.92,7.28,Scotland
+Glasgow City,Male,85 to 89,5.42,5.22,5.62,Scotland
+Glasgow City,Male,90+,4.27,3.96,4.57,Scotland
+Na h-Eileanan Siar,Male,<1,77.28,75.92,78.64,Scotland
+Na h-Eileanan Siar,Male,01 to 04,76.55,75.3,77.81,Scotland
+Na h-Eileanan Siar,Male,05 to 09,72.55,71.3,73.81,Scotland
+Na h-Eileanan Siar,Male,10 to 14,67.55,66.3,68.81,Scotland
+Na h-Eileanan Siar,Male,15 to 19,62.55,61.3,63.81,Scotland
+Na h-Eileanan Siar,Male,20 to 24,57.55,56.3,58.81,Scotland
+Na h-Eileanan Siar,Male,25 to 29,52.72,51.51,53.93,Scotland
+Na h-Eileanan Siar,Male,30 to 34,48.16,47.04,49.27,Scotland
+Na h-Eileanan Siar,Male,35 to 39,43.51,42.46,44.56,Scotland
+Na h-Eileanan Siar,Male,40 to 44,38.94,37.96,39.91,Scotland
+Na h-Eileanan Siar,Male,45 to 49,34.11,33.15,35.06,Scotland
+Na h-Eileanan Siar,Male,50 to 54,29.6,28.7,30.51,Scotland
+Na h-Eileanan Siar,Male,55 to 59,25.36,24.5,26.21,Scotland
+Na h-Eileanan Siar,Male,60 to 64,21.38,20.58,22.19,Scotland
+Na h-Eileanan Siar,Male,65 to 69,17.53,16.76,18.29,Scotland
+Na h-Eileanan Siar,Male,70 to 74,14.01,13.28,14.74,Scotland
+Na h-Eileanan Siar,Male,75 to 79,11.25,10.52,11.97,Scotland
+Na h-Eileanan Siar,Male,80 to 84,8.51,7.78,9.24,Scotland
+Na h-Eileanan Siar,Male,85 to 89,6.29,5.45,7.13,Scotland
+Na h-Eileanan Siar,Male,90+,5.22,3.99,6.45,Scotland
+Renfrewshire,Male,<1,75.56,75.05,76.07,Scotland
+Renfrewshire,Male,01 to 04,74.77,74.29,75.26,Scotland
+Renfrewshire,Male,05 to 09,70.77,70.29,71.26,Scotland
+Renfrewshire,Male,10 to 14,65.84,65.36,66.32,Scotland
+Renfrewshire,Male,15 to 19,60.89,60.41,61.36,Scotland
+Renfrewshire,Male,20 to 24,55.91,55.43,56.38,Scotland
+Renfrewshire,Male,25 to 29,51.13,50.67,51.59,Scotland
+Renfrewshire,Male,30 to 34,46.36,45.91,46.81,Scotland
+Renfrewshire,Male,35 to 39,41.73,41.29,42.16,Scotland
+Renfrewshire,Male,40 to 44,37.18,36.76,37.59,Scotland
+Renfrewshire,Male,45 to 49,32.8,32.41,33.19,Scotland
+Renfrewshire,Male,50 to 54,28.51,28.15,28.87,Scotland
+Renfrewshire,Male,55 to 59,24.4,24.05,24.74,Scotland
+Renfrewshire,Male,60 to 64,20.33,20.01,20.65,Scotland
+Renfrewshire,Male,65 to 69,16.5,16.19,16.81,Scotland
+Renfrewshire,Male,70 to 74,13.07,12.78,13.36,Scotland
+Renfrewshire,Male,75 to 79,9.97,9.69,10.24,Scotland
+Renfrewshire,Male,80 to 84,7.33,7.06,7.6,Scotland
+Renfrewshire,Male,85 to 89,5.49,5.19,5.79,Scotland
+Renfrewshire,Male,90+,4.31,3.85,4.77,Scotland
+Stirling,Male,<1,77.7,76.95,78.44,Scotland
+Stirling,Male,01 to 04,76.97,76.27,77.67,Scotland
+Stirling,Male,05 to 09,73.03,72.34,73.72,Scotland
+Stirling,Male,10 to 14,68.03,67.34,68.72,Scotland
+Stirling,Male,15 to 19,63.07,62.39,63.75,Scotland
+Stirling,Male,20 to 24,58.21,57.54,58.88,Scotland
+Stirling,Male,25 to 29,53.58,52.94,54.23,Scotland
+Stirling,Male,30 to 34,48.9,48.28,49.52,Scotland
+Stirling,Male,35 to 39,44.22,43.62,44.82,Scotland
+Stirling,Male,40 to 44,39.47,38.89,40.05,Scotland
+Stirling,Male,45 to 49,35,34.45,35.54,Scotland
+Stirling,Male,50 to 54,30.54,30.03,31.06,Scotland
+Stirling,Male,55 to 59,26.35,25.87,26.84,Scotland
+Stirling,Male,60 to 64,22.27,21.81,22.72,Scotland
+Stirling,Male,65 to 69,18.3,17.87,18.73,Scotland
+Stirling,Male,70 to 74,14.42,14.02,14.82,Scotland
+Stirling,Male,75 to 79,10.88,10.5,11.27,Scotland
+Stirling,Male,80 to 84,7.91,7.53,8.28,Scotland
+Stirling,Male,85 to 89,5.55,5.14,5.95,Scotland
+Stirling,Male,90+,4.07,3.45,4.69,Scotland
+Aberdeen City,Male,<1,76.95,76.48,77.41,Scotland
+Aberdeen City,Male,01 to 04,76.31,75.87,76.74,Scotland
+Aberdeen City,Male,05 to 09,72.35,71.92,72.78,Scotland
+Aberdeen City,Male,10 to 14,67.39,66.96,67.81,Scotland
+Aberdeen City,Male,15 to 19,62.45,62.03,62.86,Scotland
+Aberdeen City,Male,20 to 24,57.52,57.11,57.94,Scotland
+Aberdeen City,Male,25 to 29,52.7,52.29,53.1,Scotland
+Aberdeen City,Male,30 to 34,47.84,47.44,48.24,Scotland
+Aberdeen City,Male,35 to 39,43.01,42.61,43.41,Scotland
+Aberdeen City,Male,40 to 44,38.36,37.97,38.75,Scotland
+Aberdeen City,Male,45 to 49,33.89,33.51,34.26,Scotland
+Aberdeen City,Male,50 to 54,29.54,29.19,29.9,Scotland
+Aberdeen City,Male,55 to 59,25.26,24.93,25.6,Scotland
+Aberdeen City,Male,60 to 64,21.22,20.9,21.53,Scotland
+Aberdeen City,Male,65 to 69,17.38,17.08,17.68,Scotland
+Aberdeen City,Male,70 to 74,13.77,13.48,14.05,Scotland
+Aberdeen City,Male,75 to 79,10.45,10.17,10.72,Scotland
+Aberdeen City,Male,80 to 84,7.66,7.4,7.92,Scotland
+Aberdeen City,Male,85 to 89,5.37,5.1,5.63,Scotland
+Aberdeen City,Male,90+,3.89,3.51,4.28,Scotland
+Clackmannanshire,Male,<1,75.69,74.7,76.69,Scotland
+Clackmannanshire,Male,01 to 04,74.8,73.83,75.77,Scotland
+Clackmannanshire,Male,05 to 09,70.8,69.83,71.77,Scotland
+Clackmannanshire,Male,10 to 14,65.8,64.83,66.77,Scotland
+Clackmannanshire,Male,15 to 19,60.8,59.83,61.77,Scotland
+Clackmannanshire,Male,20 to 24,56.01,55.06,56.95,Scotland
+Clackmannanshire,Male,25 to 29,51.19,50.26,52.12,Scotland
+Clackmannanshire,Male,30 to 34,46.51,45.61,47.41,Scotland
+Clackmannanshire,Male,35 to 39,41.89,41.03,42.75,Scotland
+Clackmannanshire,Male,40 to 44,37.82,37.04,38.6,Scotland
+Clackmannanshire,Male,45 to 49,33.51,32.79,34.23,Scotland
+Clackmannanshire,Male,50 to 54,29.23,28.55,29.9,Scotland
+Clackmannanshire,Male,55 to 59,24.85,24.2,25.5,Scotland
+Clackmannanshire,Male,60 to 64,20.7,20.08,21.33,Scotland
+Clackmannanshire,Male,65 to 69,17.02,16.44,17.61,Scotland
+Clackmannanshire,Male,70 to 74,13.65,13.1,14.21,Scotland
+Clackmannanshire,Male,75 to 79,10.55,10,11.1,Scotland
+Clackmannanshire,Male,80 to 84,7.84,7.27,8.41,Scotland
+Clackmannanshire,Male,85 to 89,6.15,5.48,6.82,Scotland
+Clackmannanshire,Male,90+,4.71,3.75,5.68,Scotland
+East Lothian,Male,<1,78.66,77.98,79.34,Scotland
+East Lothian,Male,01 to 04,77.97,77.33,78.6,Scotland
+East Lothian,Male,05 to 09,74.05,73.42,74.68,Scotland
+East Lothian,Male,10 to 14,69.13,68.51,69.75,Scotland
+East Lothian,Male,15 to 19,64.16,63.54,64.78,Scotland
+East Lothian,Male,20 to 24,59.33,58.74,59.93,Scotland
+East Lothian,Male,25 to 29,54.62,54.05,55.19,Scotland
+East Lothian,Male,30 to 34,49.74,49.18,50.3,Scotland
+East Lothian,Male,35 to 39,44.82,44.27,45.37,Scotland
+East Lothian,Male,40 to 44,40.22,39.7,40.74,Scotland
+East Lothian,Male,45 to 49,35.75,35.26,36.24,Scotland
+East Lothian,Male,50 to 54,31.34,30.88,31.79,Scotland
+East Lothian,Male,55 to 59,26.76,26.32,27.2,Scotland
+East Lothian,Male,60 to 64,22.38,21.96,22.81,Scotland
+East Lothian,Male,65 to 69,18.28,17.87,18.69,Scotland
+East Lothian,Male,70 to 74,14.49,14.11,14.87,Scotland
+East Lothian,Male,75 to 79,11.09,10.72,11.45,Scotland
+East Lothian,Male,80 to 84,8.17,7.81,8.53,Scotland
+East Lothian,Male,85 to 89,5.81,5.43,6.19,Scotland
+East Lothian,Male,90+,4.1,3.57,4.63,Scotland
+Highland,Male,<1,77.31,76.82,77.81,Scotland
+Highland,Male,01 to 04,76.65,76.19,77.11,Scotland
+Highland,Male,05 to 09,72.74,72.29,73.2,Scotland
+Highland,Male,10 to 14,67.76,67.31,68.22,Scotland
+Highland,Male,15 to 19,62.83,62.38,63.28,Scotland
+Highland,Male,20 to 24,58.05,57.61,58.48,Scotland
+Highland,Male,25 to 29,53.27,52.85,53.7,Scotland
+Highland,Male,30 to 34,48.67,48.27,49.07,Scotland
+Highland,Male,35 to 39,44.14,43.76,44.51,Scotland
+Highland,Male,40 to 44,39.64,39.28,39.99,Scotland
+Highland,Male,45 to 49,35.21,34.88,35.54,Scotland
+Highland,Male,50 to 54,30.76,30.45,31.07,Scotland
+Highland,Male,55 to 59,26.53,26.24,26.82,Scotland
+Highland,Male,60 to 64,22.39,22.11,22.66,Scotland
+Highland,Male,65 to 69,18.33,18.06,18.59,Scotland
+Highland,Male,70 to 74,14.59,14.34,14.83,Scotland
+Highland,Male,75 to 79,11.3,11.06,11.54,Scotland
+Highland,Male,80 to 84,8.25,8.02,8.48,Scotland
+Highland,Male,85 to 89,5.83,5.58,6.08,Scotland
+Highland,Male,90+,4.23,3.88,4.59,Scotland
+North Ayrshire,Male,<1,74.58,73.94,75.21,Scotland
+North Ayrshire,Male,01 to 04,73.62,72.99,74.25,Scotland
+North Ayrshire,Male,05 to 09,69.66,69.03,70.28,Scotland
+North Ayrshire,Male,10 to 14,64.72,64.1,65.34,Scotland
+North Ayrshire,Male,15 to 19,59.75,59.13,60.37,Scotland
+North Ayrshire,Male,20 to 24,54.9,54.29,55.51,Scotland
+North Ayrshire,Male,25 to 29,50.18,49.59,50.77,Scotland
+North Ayrshire,Male,30 to 34,45.59,45.02,46.16,Scotland
+North Ayrshire,Male,35 to 39,41.02,40.47,41.56,Scotland
+North Ayrshire,Male,40 to 44,36.74,36.24,37.24,Scotland
+North Ayrshire,Male,45 to 49,32.63,32.19,33.07,Scotland
+North Ayrshire,Male,50 to 54,28.45,28.05,28.85,Scotland
+North Ayrshire,Male,55 to 59,24.48,24.11,24.85,Scotland
+North Ayrshire,Male,60 to 64,20.46,20.11,20.8,Scotland
+North Ayrshire,Male,65 to 69,16.67,16.35,16.99,Scotland
+North Ayrshire,Male,70 to 74,13.24,12.95,13.54,Scotland
+North Ayrshire,Male,75 to 79,10.17,9.89,10.45,Scotland
+North Ayrshire,Male,80 to 84,7.41,7.14,7.68,Scotland
+North Ayrshire,Male,85 to 89,5.29,5.01,5.58,Scotland
+North Ayrshire,Male,90+,3.45,3.06,3.84,Scotland
+Scottish Borders,Male,<1,78.58,77.92,79.24,Scotland
+Scottish Borders,Male,01 to 04,77.69,77.04,78.33,Scotland
+Scottish Borders,Male,05 to 09,73.78,73.14,74.41,Scotland
+Scottish Borders,Male,10 to 14,68.78,68.14,69.41,Scotland
+Scottish Borders,Male,15 to 19,63.81,63.18,64.44,Scotland
+Scottish Borders,Male,20 to 24,59.05,58.44,59.66,Scotland
+Scottish Borders,Male,25 to 29,54.22,53.63,54.81,Scotland
+Scottish Borders,Male,30 to 34,49.65,49.1,50.2,Scotland
+Scottish Borders,Male,35 to 39,45.05,44.54,45.56,Scotland
+Scottish Borders,Male,40 to 44,40.44,39.97,40.92,Scotland
+Scottish Borders,Male,45 to 49,35.84,35.4,36.28,Scotland
+Scottish Borders,Male,50 to 54,31.36,30.95,31.76,Scotland
+Scottish Borders,Male,55 to 59,27.03,26.65,27.41,Scotland
+Scottish Borders,Male,60 to 64,22.68,22.33,23.04,Scotland
+Scottish Borders,Male,65 to 69,18.63,18.29,18.96,Scotland
+Scottish Borders,Male,70 to 74,14.69,14.37,15,Scotland
+Scottish Borders,Male,75 to 79,11.23,10.94,11.53,Scotland
+Scottish Borders,Male,80 to 84,8.08,7.79,8.36,Scotland
+Scottish Borders,Male,85 to 89,5.42,5.14,5.71,Scotland
+Scottish Borders,Male,90+,3.37,3.01,3.73,Scotland
+West Dunbartonshire,Male,<1,73.18,72.39,73.98,Scotland
+West Dunbartonshire,Male,01 to 04,72.65,71.91,73.38,Scotland
+West Dunbartonshire,Male,05 to 09,68.75,68.03,69.48,Scotland
+West Dunbartonshire,Male,10 to 14,63.75,63.03,64.48,Scotland
+West Dunbartonshire,Male,15 to 19,58.79,58.07,59.51,Scotland
+West Dunbartonshire,Male,20 to 24,53.95,53.25,54.65,Scotland
+West Dunbartonshire,Male,25 to 29,49.2,48.52,49.88,Scotland
+West Dunbartonshire,Male,30 to 34,44.53,43.88,45.19,Scotland
+West Dunbartonshire,Male,35 to 39,39.94,39.3,40.57,Scotland
+West Dunbartonshire,Male,40 to 44,35.31,34.7,35.93,Scotland
+West Dunbartonshire,Male,45 to 49,31,30.42,31.57,Scotland
+West Dunbartonshire,Male,50 to 54,27.14,26.62,27.66,Scotland
+West Dunbartonshire,Male,55 to 59,23.3,22.83,23.78,Scotland
+West Dunbartonshire,Male,60 to 64,19.46,19.01,19.91,Scotland
+West Dunbartonshire,Male,65 to 69,16.11,15.69,16.53,Scotland
+West Dunbartonshire,Male,70 to 74,12.71,12.32,13.1,Scotland
+West Dunbartonshire,Male,75 to 79,9.65,9.27,10.02,Scotland
+West Dunbartonshire,Male,80 to 84,7.14,6.78,7.49,Scotland
+West Dunbartonshire,Male,85 to 89,4.94,4.58,5.3,Scotland
+West Dunbartonshire,Male,90+,3.31,2.79,3.83,Scotland
+Aberdeenshire,Male,<1,78.81,78.37,79.24,Scotland
+Aberdeenshire,Male,01 to 04,78.21,77.82,78.61,Scotland
+Aberdeenshire,Male,05 to 09,74.23,73.83,74.63,Scotland
+Aberdeenshire,Male,10 to 14,69.26,68.87,69.65,Scotland
+Aberdeenshire,Male,15 to 19,64.31,63.92,64.7,Scotland
+Aberdeenshire,Male,20 to 24,59.44,59.06,59.82,Scotland
+Aberdeenshire,Male,25 to 29,54.63,54.26,55,Scotland
+Aberdeenshire,Male,30 to 34,49.93,49.58,50.28,Scotland
+Aberdeenshire,Male,35 to 39,45.24,44.91,45.58,Scotland
+Aberdeenshire,Male,40 to 44,40.58,40.26,40.9,Scotland
+Aberdeenshire,Male,45 to 49,35.91,35.6,36.22,Scotland
+Aberdeenshire,Male,50 to 54,31.34,31.05,31.63,Scotland
+Aberdeenshire,Male,55 to 59,26.81,26.53,27.09,Scotland
+Aberdeenshire,Male,60 to 64,22.47,22.2,22.74,Scotland
+Aberdeenshire,Male,65 to 69,18.4,18.14,18.66,Scotland
+Aberdeenshire,Male,70 to 74,14.64,14.4,14.88,Scotland
+Aberdeenshire,Male,75 to 79,11.12,10.89,11.35,Scotland
+Aberdeenshire,Male,80 to 84,8.09,7.87,8.32,Scotland
+Aberdeenshire,Male,85 to 89,5.61,5.38,5.84,Scotland
+Aberdeenshire,Male,90+,3.78,3.46,4.1,Scotland
+Dumfries and Galloway,Male,<1,77.06,76.46,77.66,Scotland
+Dumfries and Galloway,Male,01 to 04,76.15,75.56,76.73,Scotland
+Dumfries and Galloway,Male,05 to 09,72.34,71.78,72.9,Scotland
+Dumfries and Galloway,Male,10 to 14,67.34,66.78,67.9,Scotland
+Dumfries and Galloway,Male,15 to 19,62.34,61.78,62.9,Scotland
+Dumfries and Galloway,Male,20 to 24,57.55,57.01,58.09,Scotland
+Dumfries and Galloway,Male,25 to 29,52.75,52.22,53.28,Scotland
+Dumfries and Galloway,Male,30 to 34,48.06,47.55,48.57,Scotland
+Dumfries and Galloway,Male,35 to 39,43.46,42.98,43.93,Scotland
+Dumfries and Galloway,Male,40 to 44,38.91,38.46,39.36,Scotland
+Dumfries and Galloway,Male,45 to 49,34.63,34.23,35.03,Scotland
+Dumfries and Galloway,Male,50 to 54,30.17,29.8,30.53,Scotland
+Dumfries and Galloway,Male,55 to 59,25.92,25.58,26.26,Scotland
+Dumfries and Galloway,Male,60 to 64,21.85,21.54,22.17,Scotland
+Dumfries and Galloway,Male,65 to 69,17.84,17.55,18.14,Scotland
+Dumfries and Galloway,Male,70 to 74,14.22,13.95,14.49,Scotland
+Dumfries and Galloway,Male,75 to 79,10.89,10.63,11.15,Scotland
+Dumfries and Galloway,Male,80 to 84,8.01,7.76,8.26,Scotland
+Dumfries and Galloway,Male,85 to 89,5.54,5.28,5.8,Scotland
+Dumfries and Galloway,Male,90+,3.93,3.56,4.31,Scotland
+East Renfrewshire,Male,<1,79.94,79.27,80.6,Scotland
+East Renfrewshire,Male,01 to 04,78.94,78.27,79.6,Scotland
+East Renfrewshire,Male,05 to 09,75.03,74.38,75.69,Scotland
+East Renfrewshire,Male,10 to 14,70.07,69.42,70.72,Scotland
+East Renfrewshire,Male,15 to 19,65.13,64.49,65.78,Scotland
+East Renfrewshire,Male,20 to 24,60.3,59.67,60.93,Scotland
+East Renfrewshire,Male,25 to 29,55.45,54.83,56.07,Scotland
+East Renfrewshire,Male,30 to 34,50.64,50.04,51.23,Scotland
+East Renfrewshire,Male,35 to 39,45.78,45.2,46.36,Scotland
+East Renfrewshire,Male,40 to 44,40.96,40.39,41.52,Scotland
+East Renfrewshire,Male,45 to 49,36.31,35.77,36.86,Scotland
+East Renfrewshire,Male,50 to 54,31.74,31.22,32.26,Scotland
+East Renfrewshire,Male,55 to 59,27.32,26.82,27.82,Scotland
+East Renfrewshire,Male,60 to 64,22.97,22.49,23.45,Scotland
+East Renfrewshire,Male,65 to 69,18.91,18.45,19.36,Scotland
+East Renfrewshire,Male,70 to 74,15.05,14.62,15.47,Scotland
+East Renfrewshire,Male,75 to 79,11.52,11.12,11.93,Scotland
+East Renfrewshire,Male,80 to 84,8.51,8.11,8.9,Scotland
+East Renfrewshire,Male,85 to 89,6.02,5.62,6.43,Scotland
+East Renfrewshire,Male,90+,4.25,3.7,4.81,Scotland
+Inverclyde,Male,<1,74.62,73.79,75.45,Scotland
+Inverclyde,Male,01 to 04,73.93,73.15,74.71,Scotland
+Inverclyde,Male,05 to 09,69.93,69.15,70.71,Scotland
+Inverclyde,Male,10 to 14,64.93,64.15,65.71,Scotland
+Inverclyde,Male,15 to 19,60.03,59.26,60.79,Scotland
+Inverclyde,Male,20 to 24,55.17,54.42,55.92,Scotland
+Inverclyde,Male,25 to 29,50.38,49.64,51.11,Scotland
+Inverclyde,Male,30 to 34,45.81,45.11,46.5,Scotland
+Inverclyde,Male,35 to 39,41.17,40.5,41.84,Scotland
+Inverclyde,Male,40 to 44,36.55,35.91,37.2,Scotland
+Inverclyde,Male,45 to 49,32.33,31.74,32.91,Scotland
+Inverclyde,Male,50 to 54,28.23,27.7,28.76,Scotland
+Inverclyde,Male,55 to 59,24.14,23.65,24.63,Scotland
+Inverclyde,Male,60 to 64,20.17,19.7,20.63,Scotland
+Inverclyde,Male,65 to 69,16.34,15.9,16.78,Scotland
+Inverclyde,Male,70 to 74,12.92,12.51,13.33,Scotland
+Inverclyde,Male,75 to 79,9.83,9.45,10.22,Scotland
+Inverclyde,Male,80 to 84,7.34,6.96,7.72,Scotland
+Inverclyde,Male,85 to 89,5.17,4.76,5.58,Scotland
+Inverclyde,Male,90+,4.07,3.42,4.71,Scotland
+North Lanarkshire,Male,<1,74.5,74.12,74.87,Scotland
+North Lanarkshire,Male,01 to 04,73.76,73.4,74.12,Scotland
+North Lanarkshire,Male,05 to 09,69.8,69.45,70.16,Scotland
+North Lanarkshire,Male,10 to 14,64.8,64.45,65.16,Scotland
+North Lanarkshire,Male,15 to 19,59.86,59.51,60.22,Scotland
+North Lanarkshire,Male,20 to 24,55.01,54.67,55.36,Scotland
+North Lanarkshire,Male,25 to 29,50.25,49.91,50.58,Scotland
+North Lanarkshire,Male,30 to 34,45.52,45.2,45.85,Scotland
+North Lanarkshire,Male,35 to 39,40.85,40.54,41.17,Scotland
+North Lanarkshire,Male,40 to 44,36.34,36.04,36.64,Scotland
+North Lanarkshire,Male,45 to 49,31.94,31.66,32.23,Scotland
+North Lanarkshire,Male,50 to 54,27.68,27.41,27.95,Scotland
+North Lanarkshire,Male,55 to 59,23.66,23.4,23.91,Scotland
+North Lanarkshire,Male,60 to 64,19.78,19.54,20.02,Scotland
+North Lanarkshire,Male,65 to 69,16.1,15.87,16.33,Scotland
+North Lanarkshire,Male,70 to 74,12.72,12.5,12.93,Scotland
+North Lanarkshire,Male,75 to 79,9.77,9.56,9.98,Scotland
+North Lanarkshire,Male,80 to 84,7.26,7.05,7.47,Scotland
+North Lanarkshire,Male,85 to 89,5.32,5.08,5.55,Scotland
+North Lanarkshire,Male,90+,3.93,3.56,4.29,Scotland
+Shetland Islands,Male,<1,79.44,78.2,80.68,Scotland
+Shetland Islands,Male,01 to 04,78.44,77.2,79.68,Scotland
+Shetland Islands,Male,05 to 09,74.44,73.2,75.68,Scotland
+Shetland Islands,Male,10 to 14,69.62,68.42,70.82,Scotland
+Shetland Islands,Male,15 to 19,64.62,63.42,65.82,Scotland
+Shetland Islands,Male,20 to 24,59.62,58.42,60.82,Scotland
+Shetland Islands,Male,25 to 29,54.62,53.42,55.82,Scotland
+Shetland Islands,Male,30 to 34,49.75,48.58,50.92,Scotland
+Shetland Islands,Male,35 to 39,44.97,43.83,46.11,Scotland
+Shetland Islands,Male,40 to 44,40.07,38.95,41.2,Scotland
+Shetland Islands,Male,45 to 49,35.52,34.45,36.58,Scotland
+Shetland Islands,Male,50 to 54,31.21,30.21,32.21,Scotland
+Shetland Islands,Male,55 to 59,26.68,25.73,27.64,Scotland
+Shetland Islands,Male,60 to 64,22.56,21.65,23.47,Scotland
+Shetland Islands,Male,65 to 69,18.48,17.62,19.34,Scotland
+Shetland Islands,Male,70 to 74,14.8,13.99,15.6,Scotland
+Shetland Islands,Male,75 to 79,11.41,10.63,12.18,Scotland
+Shetland Islands,Male,80 to 84,8.18,7.41,8.94,Scotland
+Shetland Islands,Male,85 to 89,5.94,5.12,6.75,Scotland
+Shetland Islands,Male,90+,3.85,2.75,4.95,Scotland
+West Lothian,Male,<1,77.07,76.56,77.58,Scotland
+West Lothian,Male,01 to 04,76.33,75.84,76.81,Scotland
+West Lothian,Male,05 to 09,72.33,71.84,72.81,Scotland
+West Lothian,Male,10 to 14,67.33,66.84,67.81,Scotland
+West Lothian,Male,15 to 19,62.38,61.9,62.86,Scotland
+West Lothian,Male,20 to 24,57.47,57,57.94,Scotland
+West Lothian,Male,25 to 29,52.72,52.26,53.18,Scotland
+West Lothian,Male,30 to 34,47.94,47.49,48.38,Scotland
+West Lothian,Male,35 to 39,43.26,42.83,43.69,Scotland
+West Lothian,Male,40 to 44,38.62,38.2,39.03,Scotland
+West Lothian,Male,45 to 49,34.07,33.67,34.47,Scotland
+West Lothian,Male,50 to 54,29.56,29.17,29.94,Scotland
+West Lothian,Male,55 to 59,25.23,24.86,25.6,Scotland
+West Lothian,Male,60 to 64,21.14,20.78,21.5,Scotland
+West Lothian,Male,65 to 69,17.24,16.9,17.58,Scotland
+West Lothian,Male,70 to 74,13.67,13.34,14,Scotland
+West Lothian,Male,75 to 79,10.56,10.24,10.88,Scotland
+West Lothian,Male,80 to 84,8.04,7.71,8.37,Scotland
+West Lothian,Male,85 to 89,5.94,5.57,6.32,Scotland
+West Lothian,Male,90+,4.56,4,5.13,Scotland
+Angus,Male,<1,78.22,77.54,78.89,Scotland
+Angus,Male,01 to 04,77.61,76.99,78.22,Scotland
+Angus,Male,05 to 09,73.61,72.99,74.22,Scotland
+Angus,Male,10 to 14,68.76,68.16,69.36,Scotland
+Angus,Male,15 to 19,63.76,63.16,64.36,Scotland
+Angus,Male,20 to 24,58.89,58.3,59.47,Scotland
+Angus,Male,25 to 29,54.13,53.57,54.69,Scotland
+Angus,Male,30 to 34,49.27,48.72,49.82,Scotland
+Angus,Male,35 to 39,44.51,43.98,45.04,Scotland
+Angus,Male,40 to 44,40.02,39.53,40.51,Scotland
+Angus,Male,45 to 49,35.54,35.09,36,Scotland
+Angus,Male,50 to 54,31.02,30.59,31.45,Scotland
+Angus,Male,55 to 59,26.73,26.33,27.14,Scotland
+Angus,Male,60 to 64,22.37,21.98,22.75,Scotland
+Angus,Male,65 to 69,18.36,18,18.72,Scotland
+Angus,Male,70 to 74,14.6,14.26,14.93,Scotland
+Angus,Male,75 to 79,11.2,10.88,11.52,Scotland
+Angus,Male,80 to 84,8.31,8,8.62,Scotland
+Angus,Male,85 to 89,5.74,5.42,6.06,Scotland
+Angus,Male,90+,3.89,3.47,4.32,Scotland
+Dundee City,Male,<1,73.95,73.34,74.57,Scotland
+Dundee City,Male,01 to 04,73.34,72.76,73.92,Scotland
+Dundee City,Male,05 to 09,69.47,68.91,70.03,Scotland
+Dundee City,Male,10 to 14,64.5,63.94,65.06,Scotland
+Dundee City,Male,15 to 19,59.5,58.94,60.06,Scotland
+Dundee City,Male,20 to 24,54.59,54.04,55.15,Scotland
+Dundee City,Male,25 to 29,49.72,49.17,50.27,Scotland
+Dundee City,Male,30 to 34,45.06,44.53,45.6,Scotland
+Dundee City,Male,35 to 39,40.22,39.68,40.75,Scotland
+Dundee City,Male,40 to 44,35.85,35.34,36.36,Scotland
+Dundee City,Male,45 to 49,31.59,31.11,32.07,Scotland
+Dundee City,Male,50 to 54,27.68,27.25,28.12,Scotland
+Dundee City,Male,55 to 59,23.8,23.39,24.2,Scotland
+Dundee City,Male,60 to 64,19.92,19.54,20.3,Scotland
+Dundee City,Male,65 to 69,16.24,15.89,16.6,Scotland
+Dundee City,Male,70 to 74,12.92,12.59,13.25,Scotland
+Dundee City,Male,75 to 79,9.98,9.67,10.29,Scotland
+Dundee City,Male,80 to 84,7.42,7.12,7.71,Scotland
+Dundee City,Male,85 to 89,5.53,5.23,5.84,Scotland
+Dundee City,Male,90+,3.77,3.35,4.19,Scotland
+Falkirk,Male,<1,76.17,75.63,76.72,Scotland
+Falkirk,Male,01 to 04,75.44,74.93,75.96,Scotland
+Falkirk,Male,05 to 09,71.44,70.93,71.96,Scotland
+Falkirk,Male,10 to 14,66.47,65.96,66.98,Scotland
+Falkirk,Male,15 to 19,61.51,61,62.02,Scotland
+Falkirk,Male,20 to 24,56.62,56.12,57.12,Scotland
+Falkirk,Male,25 to 29,51.9,51.42,52.38,Scotland
+Falkirk,Male,30 to 34,47.21,46.75,47.68,Scotland
+Falkirk,Male,35 to 39,42.59,42.14,43.03,Scotland
+Falkirk,Male,40 to 44,37.86,37.43,38.29,Scotland
+Falkirk,Male,45 to 49,33.43,33.03,33.83,Scotland
+Falkirk,Male,50 to 54,29.12,28.74,29.5,Scotland
+Falkirk,Male,55 to 59,24.89,24.53,25.25,Scotland
+Falkirk,Male,60 to 64,20.84,20.49,21.18,Scotland
+Falkirk,Male,65 to 69,16.97,16.65,17.3,Scotland
+Falkirk,Male,70 to 74,13.35,13.05,13.66,Scotland
+Falkirk,Male,75 to 79,10.17,9.88,10.46,Scotland
+Falkirk,Male,80 to 84,7.54,7.26,7.83,Scotland
+Falkirk,Male,85 to 89,5.55,5.25,5.85,Scotland
+Falkirk,Male,90+,3.86,3.43,4.3,Scotland
+Midlothian,Male,<1,77.41,76.7,78.12,Scotland
+Midlothian,Male,01 to 04,76.6,75.92,77.29,Scotland
+Midlothian,Male,05 to 09,72.65,71.97,73.33,Scotland
+Midlothian,Male,10 to 14,67.69,67.01,68.36,Scotland
+Midlothian,Male,15 to 19,62.72,62.05,63.39,Scotland
+Midlothian,Male,20 to 24,57.76,57.1,58.43,Scotland
+Midlothian,Male,25 to 29,53.11,52.48,53.74,Scotland
+Midlothian,Male,30 to 34,48.47,47.87,49.07,Scotland
+Midlothian,Male,35 to 39,43.69,43.11,44.28,Scotland
+Midlothian,Male,40 to 44,39.08,38.52,39.64,Scotland
+Midlothian,Male,45 to 49,34.43,33.9,34.97,Scotland
+Midlothian,Male,50 to 54,29.99,29.49,30.5,Scotland
+Midlothian,Male,55 to 59,25.68,25.19,26.16,Scotland
+Midlothian,Male,60 to 64,21.45,21,21.91,Scotland
+Midlothian,Male,65 to 69,17.39,16.96,17.83,Scotland
+Midlothian,Male,70 to 74,13.53,13.12,13.95,Scotland
+Midlothian,Male,75 to 79,10.36,9.96,10.76,Scotland
+Midlothian,Male,80 to 84,7.62,7.21,8.03,Scotland
+Midlothian,Male,85 to 89,5.85,5.39,6.31,Scotland
+Midlothian,Male,90+,4.16,3.51,4.8,Scotland
+Orkney Islands,Male,<1,79.46,77.87,81.05,Scotland
+Orkney Islands,Male,01 to 04,78.76,77.27,80.24,Scotland
+Orkney Islands,Male,05 to 09,74.76,73.27,76.24,Scotland
+Orkney Islands,Male,10 to 14,69.76,68.27,71.24,Scotland
+Orkney Islands,Male,15 to 19,64.76,63.27,66.24,Scotland
+Orkney Islands,Male,20 to 24,59.94,58.49,61.39,Scotland
+Orkney Islands,Male,25 to 29,55.3,53.94,56.67,Scotland
+Orkney Islands,Male,30 to 34,50.74,49.46,52.03,Scotland
+Orkney Islands,Male,35 to 39,45.87,44.61,47.13,Scotland
+Orkney Islands,Male,40 to 44,41.6,40.46,42.74,Scotland
+Orkney Islands,Male,45 to 49,36.94,35.85,38.02,Scotland
+Orkney Islands,Male,50 to 54,32.4,31.38,33.42,Scotland
+Orkney Islands,Male,55 to 59,27.82,26.83,28.81,Scotland
+Orkney Islands,Male,60 to 64,23.59,22.64,24.54,Scotland
+Orkney Islands,Male,65 to 69,19.33,18.41,20.25,Scotland
+Orkney Islands,Male,70 to 74,15.7,14.82,16.57,Scotland
+Orkney Islands,Male,75 to 79,12.16,11.3,13.03,Scotland
+Orkney Islands,Male,80 to 84,9.28,8.4,10.17,Scotland
+Orkney Islands,Male,85 to 89,6.68,5.69,7.67,Scotland
+Orkney Islands,Male,90+,5.2,3.77,6.62,Scotland
+South Ayrshire,Male,<1,76.64,75.98,77.31,Scotland
+South Ayrshire,Male,01 to 04,75.82,75.19,76.46,Scotland
+South Ayrshire,Male,05 to 09,71.87,71.24,72.5,Scotland
+South Ayrshire,Male,10 to 14,66.87,66.24,67.5,Scotland
+South Ayrshire,Male,15 to 19,61.87,61.24,62.5,Scotland
+South Ayrshire,Male,20 to 24,57.01,56.4,57.63,Scotland
+South Ayrshire,Male,25 to 29,52.2,51.6,52.8,Scotland
+South Ayrshire,Male,30 to 34,47.41,46.82,47.99,Scotland
+South Ayrshire,Male,35 to 39,42.79,42.24,43.34,Scotland
+South Ayrshire,Male,40 to 44,38.31,37.8,38.82,Scotland
+South Ayrshire,Male,45 to 49,33.79,33.32,34.27,Scotland
+South Ayrshire,Male,50 to 54,29.62,29.2,30.05,Scotland
+South Ayrshire,Male,55 to 59,25.33,24.93,25.73,Scotland
+South Ayrshire,Male,60 to 64,21.31,20.94,21.68,Scotland
+South Ayrshire,Male,65 to 69,17.46,17.12,17.81,Scotland
+South Ayrshire,Male,70 to 74,13.91,13.59,14.22,Scotland
+South Ayrshire,Male,75 to 79,10.48,10.18,10.78,Scotland
+South Ayrshire,Male,80 to 84,7.7,7.4,7.99,Scotland
+South Ayrshire,Male,85 to 89,5.73,5.41,6.04,Scotland
+South Ayrshire,Male,90+,4.04,3.59,4.48,Scotland
+Argyll and Bute,Male,<1,77.67,76.92,78.43,Scotland
+Argyll and Bute,Male,01 to 04,76.84,76.12,77.57,Scotland
+Argyll and Bute,Male,05 to 09,72.91,72.2,73.63,Scotland
+Argyll and Bute,Male,10 to 14,67.91,67.2,68.63,Scotland
+Argyll and Bute,Male,15 to 19,62.96,62.26,63.67,Scotland
+Argyll and Bute,Male,20 to 24,58.18,57.5,58.86,Scotland
+Argyll and Bute,Male,25 to 29,53.28,52.61,53.95,Scotland
+Argyll and Bute,Male,30 to 34,48.56,47.91,49.2,Scotland
+Argyll and Bute,Male,35 to 39,43.95,43.35,44.56,Scotland
+Argyll and Bute,Male,40 to 44,39.21,38.63,39.8,Scotland
+Argyll and Bute,Male,45 to 49,34.7,34.15,35.24,Scotland
+Argyll and Bute,Male,50 to 54,30.44,29.95,30.94,Scotland
+Argyll and Bute,Male,55 to 59,26.27,25.81,26.73,Scotland
+Argyll and Bute,Male,60 to 64,22.13,21.7,22.56,Scotland
+Argyll and Bute,Male,65 to 69,18.03,17.62,18.44,Scotland
+Argyll and Bute,Male,70 to 74,14.4,14.02,14.78,Scotland
+Argyll and Bute,Male,75 to 79,10.99,10.61,11.36,Scotland
+Argyll and Bute,Male,80 to 84,8.28,7.9,8.65,Scotland
+Argyll and Bute,Male,85 to 89,5.9,5.49,6.31,Scotland
+Argyll and Bute,Male,90+,4.28,3.69,4.86,Scotland
+East Ayrshire,Male,<1,74.8,74.14,75.45,Scotland
+East Ayrshire,Male,01 to 04,74.06,73.43,74.68,Scotland
+East Ayrshire,Male,05 to 09,70.09,69.48,70.71,Scotland
+East Ayrshire,Male,10 to 14,65.09,64.48,65.71,Scotland
+East Ayrshire,Male,15 to 19,60.09,59.48,60.71,Scotland
+East Ayrshire,Male,20 to 24,55.18,54.57,55.8,Scotland
+East Ayrshire,Male,25 to 29,50.48,49.89,51.07,Scotland
+East Ayrshire,Male,30 to 34,45.96,45.4,46.52,Scotland
+East Ayrshire,Male,35 to 39,41.4,40.87,41.94,Scotland
+East Ayrshire,Male,40 to 44,36.97,36.47,37.47,Scotland
+East Ayrshire,Male,45 to 49,32.59,32.12,33.06,Scotland
+East Ayrshire,Male,50 to 54,28.5,28.08,28.93,Scotland
+East Ayrshire,Male,55 to 59,24.38,23.98,24.78,Scotland
+East Ayrshire,Male,60 to 64,20.33,19.96,20.71,Scotland
+East Ayrshire,Male,65 to 69,16.43,16.07,16.78,Scotland
+East Ayrshire,Male,70 to 74,13.12,12.79,13.45,Scotland
+East Ayrshire,Male,75 to 79,9.96,9.64,10.27,Scotland
+East Ayrshire,Male,80 to 84,7.43,7.12,7.75,Scotland
+East Ayrshire,Male,85 to 89,5.35,5,5.7,Scotland
+East Ayrshire,Male,90+,4.09,3.53,4.64,Scotland
+Fife,Male,<1,76.95,76.58,77.31,Scotland
+Fife,Male,01 to 04,76.21,75.86,76.55,Scotland
+Fife,Male,05 to 09,72.22,71.87,72.57,Scotland
+Fife,Male,10 to 14,67.24,66.89,67.59,Scotland
+Fife,Male,15 to 19,62.3,61.96,62.64,Scotland
+Fife,Male,20 to 24,57.45,57.11,57.79,Scotland
+Fife,Male,25 to 29,52.67,52.34,52.99,Scotland
+Fife,Male,30 to 34,47.96,47.65,48.28,Scotland
+Fife,Male,35 to 39,43.24,42.94,43.55,Scotland
+Fife,Male,40 to 44,38.78,38.5,39.07,Scotland
+Fife,Male,45 to 49,34.34,34.07,34.61,Scotland
+Fife,Male,50 to 54,29.97,29.72,30.22,Scotland
+Fife,Male,55 to 59,25.74,25.51,25.98,Scotland
+Fife,Male,60 to 64,21.54,21.31,21.76,Scotland
+Fife,Male,65 to 69,17.64,17.43,17.85,Scotland
+Fife,Male,70 to 74,14.04,13.85,14.24,Scotland
+Fife,Male,75 to 79,10.73,10.54,10.92,Scotland
+Fife,Male,80 to 84,8,7.81,8.19,Scotland
+Fife,Male,85 to 89,5.74,5.54,5.95,Scotland
+Fife,Male,90+,4.1,3.81,4.39,Scotland
+Moray,Male,<1,78.09,77.35,78.84,Scotland
+Moray,Male,01 to 04,77.65,76.99,78.3,Scotland
+Moray,Male,05 to 09,73.65,72.99,74.3,Scotland
+Moray,Male,10 to 14,68.65,67.99,69.3,Scotland
+Moray,Male,15 to 19,63.69,63.03,64.34,Scotland
+Moray,Male,20 to 24,58.84,58.2,59.47,Scotland
+Moray,Male,25 to 29,54.04,53.42,54.66,Scotland
+Moray,Male,30 to 34,49.31,48.72,49.91,Scotland
+Moray,Male,35 to 39,44.54,43.97,45.12,Scotland
+Moray,Male,40 to 44,39.92,39.37,40.47,Scotland
+Moray,Male,45 to 49,35.34,34.82,35.86,Scotland
+Moray,Male,50 to 54,30.84,30.35,31.33,Scotland
+Moray,Male,55 to 59,26.64,26.17,27.1,Scotland
+Moray,Male,60 to 64,22.34,21.9,22.78,Scotland
+Moray,Male,65 to 69,18.22,17.81,18.64,Scotland
+Moray,Male,70 to 74,14.42,14.02,14.81,Scotland
+Moray,Male,75 to 79,10.97,10.58,11.35,Scotland
+Moray,Male,80 to 84,8.31,7.93,8.69,Scotland
+Moray,Male,85 to 89,6.21,5.8,6.62,Scotland
+Moray,Male,90+,4.38,3.83,4.94,Scotland
+Perth and Kinross,Male,<1,78.7,78.11,79.29,Scotland
+Perth and Kinross,Male,01 to 04,78.04,77.49,78.58,Scotland
+Perth and Kinross,Male,05 to 09,74.11,73.58,74.65,Scotland
+Perth and Kinross,Male,10 to 14,69.11,68.58,69.65,Scotland
+Perth and Kinross,Male,15 to 19,64.11,63.58,64.65,Scotland
+Perth and Kinross,Male,20 to 24,59.24,58.72,59.77,Scotland
+Perth and Kinross,Male,25 to 29,54.55,54.05,55.05,Scotland
+Perth and Kinross,Male,30 to 34,49.69,49.19,50.18,Scotland
+Perth and Kinross,Male,35 to 39,45.17,44.71,45.63,Scotland
+Perth and Kinross,Male,40 to 44,40.6,40.17,41.04,Scotland
+Perth and Kinross,Male,45 to 49,35.93,35.51,36.34,Scotland
+Perth and Kinross,Male,50 to 54,31.42,31.03,31.81,Scotland
+Perth and Kinross,Male,55 to 59,27.19,26.82,27.55,Scotland
+Perth and Kinross,Male,60 to 64,22.95,22.6,23.3,Scotland
+Perth and Kinross,Male,65 to 69,18.86,18.53,19.19,Scotland
+Perth and Kinross,Male,70 to 74,15.15,14.84,15.46,Scotland
+Perth and Kinross,Male,75 to 79,11.67,11.37,11.97,Scotland
+Perth and Kinross,Male,80 to 84,8.64,8.35,8.93,Scotland
+Perth and Kinross,Male,85 to 89,6.19,5.89,6.49,Scotland
+Perth and Kinross,Male,90+,4.43,4.02,4.85,Scotland
+South Lanarkshire,Male,<1,76.04,75.66,76.42,Scotland
+South Lanarkshire,Male,01 to 04,75.25,74.88,75.61,Scotland
+South Lanarkshire,Male,05 to 09,71.26,70.9,71.63,Scotland
+South Lanarkshire,Male,10 to 14,66.26,65.9,66.63,Scotland
+South Lanarkshire,Male,15 to 19,61.33,60.97,61.69,Scotland
+South Lanarkshire,Male,20 to 24,56.44,56.08,56.79,Scotland
+South Lanarkshire,Male,25 to 29,51.7,51.36,52.04,Scotland
+South Lanarkshire,Male,30 to 34,46.91,46.58,47.24,Scotland
+South Lanarkshire,Male,35 to 39,42.33,42.02,42.65,Scotland
+South Lanarkshire,Male,40 to 44,37.79,37.49,38.09,Scotland
+South Lanarkshire,Male,45 to 49,33.38,33.1,33.66,Scotland
+South Lanarkshire,Male,50 to 54,29.01,28.75,29.27,Scotland
+South Lanarkshire,Male,55 to 59,24.78,24.53,25.02,Scotland
+South Lanarkshire,Male,60 to 64,20.7,20.47,20.93,Scotland
+South Lanarkshire,Male,65 to 69,16.88,16.66,17.09,Scotland
+South Lanarkshire,Male,70 to 74,13.33,13.12,13.53,Scotland
+South Lanarkshire,Male,75 to 79,10.03,9.84,10.22,Scotland
+South Lanarkshire,Male,80 to 84,7.27,7.09,7.46,Scotland
+South Lanarkshire,Male,85 to 89,5.14,4.95,5.32,Scotland
+South Lanarkshire,Male,90+,3.39,3.13,3.64,Scotland
+Scotland,Female,<1,80.72,80.63,80.8,Scotland
+Scotland,Female,01 to 04,79.98,79.9,80.07,Scotland
+Scotland,Female,05 to 09,76.02,75.94,76.1,Scotland
+Scotland,Female,10 to 14,71.04,70.96,71.12,Scotland
+Scotland,Female,15 to 19,66.07,65.99,66.14,Scotland
+Scotland,Female,20 to 24,61.12,61.04,61.2,Scotland
+Scotland,Female,25 to 29,56.22,56.14,56.29,Scotland
+Scotland,Female,30 to 34,51.33,51.26,51.41,Scotland
+Scotland,Female,35 to 39,46.49,46.41,46.56,Scotland
+Scotland,Female,40 to 44,41.73,41.66,41.8,Scotland
+Scotland,Female,45 to 49,37.08,37.01,37.15,Scotland
+Scotland,Female,50 to 54,32.53,32.47,32.6,Scotland
+Scotland,Female,55 to 59,28.08,28.01,28.14,Scotland
+Scotland,Female,60 to 64,23.75,23.69,23.81,Scotland
+Scotland,Female,65 to 69,19.61,19.55,19.66,Scotland
+Scotland,Female,70 to 74,15.73,15.68,15.78,Scotland
+Scotland,Female,75 to 79,12.13,12.08,12.18,Scotland
+Scotland,Female,80 to 84,8.96,8.92,9.01,Scotland
+Scotland,Female,85 to 89,6.35,6.3,6.39,Scotland
+Scotland,Female,90+,4.32,4.26,4.38,Scotland
+Edinburgh,Female,<1,82.22,81.93,82.51,Scotland
+Edinburgh,Female,01 to 04,81.5,81.23,81.76,Scotland
+Edinburgh,Female,05 to 09,77.52,77.25,77.79,Scotland
+Edinburgh,Female,10 to 14,72.53,72.26,72.8,Scotland
+Edinburgh,Female,15 to 19,67.55,67.28,67.81,Scotland
+Edinburgh,Female,20 to 24,62.57,62.31,62.84,Scotland
+Edinburgh,Female,25 to 29,57.64,57.37,57.9,Scotland
+Edinburgh,Female,30 to 34,52.7,52.44,52.96,Scotland
+Edinburgh,Female,35 to 39,47.78,47.52,48.04,Scotland
+Edinburgh,Female,40 to 44,42.91,42.65,43.17,Scotland
+Edinburgh,Female,45 to 49,38.17,37.92,38.42,Scotland
+Edinburgh,Female,50 to 54,33.55,33.3,33.79,Scotland
+Edinburgh,Female,55 to 59,29.04,28.81,29.27,Scotland
+Edinburgh,Female,60 to 64,24.72,24.5,24.94,Scotland
+Edinburgh,Female,65 to 69,20.51,20.3,20.72,Scotland
+Edinburgh,Female,70 to 74,16.52,16.33,16.72,Scotland
+Edinburgh,Female,75 to 79,12.8,12.61,12.99,Scotland
+Edinburgh,Female,80 to 84,9.54,9.37,9.71,Scotland
+Edinburgh,Female,85 to 89,6.72,6.55,6.89,Scotland
+Edinburgh,Female,90+,4.53,4.33,4.72,Scotland
+East Dunbartonshire,Female,<1,83.48,82.93,84.03,Scotland
+East Dunbartonshire,Female,01 to 04,82.54,82.01,83.08,Scotland
+East Dunbartonshire,Female,05 to 09,78.54,78.01,79.08,Scotland
+East Dunbartonshire,Female,10 to 14,73.54,73.01,74.08,Scotland
+East Dunbartonshire,Female,15 to 19,68.54,68.01,69.08,Scotland
+East Dunbartonshire,Female,20 to 24,63.58,63.05,64.12,Scotland
+East Dunbartonshire,Female,25 to 29,58.75,58.24,59.26,Scotland
+East Dunbartonshire,Female,30 to 34,53.9,53.41,54.39,Scotland
+East Dunbartonshire,Female,35 to 39,48.96,48.48,49.44,Scotland
+East Dunbartonshire,Female,40 to 44,44.18,43.72,44.65,Scotland
+East Dunbartonshire,Female,45 to 49,39.41,38.96,39.85,Scotland
+East Dunbartonshire,Female,50 to 54,34.63,34.2,35.06,Scotland
+East Dunbartonshire,Female,55 to 59,30.01,29.6,30.43,Scotland
+East Dunbartonshire,Female,60 to 64,25.48,25.09,25.88,Scotland
+East Dunbartonshire,Female,65 to 69,21.12,20.75,21.5,Scotland
+East Dunbartonshire,Female,70 to 74,17.01,16.65,17.36,Scotland
+East Dunbartonshire,Female,75 to 79,13.02,12.69,13.36,Scotland
+East Dunbartonshire,Female,80 to 84,9.65,9.34,9.97,Scotland
+East Dunbartonshire,Female,85 to 89,6.73,6.41,7.05,Scotland
+East Dunbartonshire,Female,90+,4.68,4.27,5.08,Scotland
+Glasgow City,Female,<1,78.18,77.91,78.45,Scotland
+Glasgow City,Female,01 to 04,77.48,77.23,77.74,Scotland
+Glasgow City,Female,05 to 09,73.52,73.27,73.77,Scotland
+Glasgow City,Female,10 to 14,68.53,68.28,68.78,Scotland
+Glasgow City,Female,15 to 19,63.55,63.31,63.8,Scotland
+Glasgow City,Female,20 to 24,58.63,58.38,58.87,Scotland
+Glasgow City,Female,25 to 29,53.71,53.47,53.95,Scotland
+Glasgow City,Female,30 to 34,48.79,48.55,49.03,Scotland
+Glasgow City,Female,35 to 39,43.92,43.68,44.16,Scotland
+Glasgow City,Female,40 to 44,39.17,38.94,39.41,Scotland
+Glasgow City,Female,45 to 49,34.58,34.35,34.8,Scotland
+Glasgow City,Female,50 to 54,30.22,30.01,30.43,Scotland
+Glasgow City,Female,55 to 59,25.92,25.71,26.12,Scotland
+Glasgow City,Female,60 to 64,21.73,21.54,21.93,Scotland
+Glasgow City,Female,65 to 69,17.87,17.69,18.06,Scotland
+Glasgow City,Female,70 to 74,14.32,14.14,14.49,Scotland
+Glasgow City,Female,75 to 79,11,10.84,11.17,Scotland
+Glasgow City,Female,80 to 84,8.29,8.14,8.44,Scotland
+Glasgow City,Female,85 to 89,6.02,5.88,6.17,Scotland
+Glasgow City,Female,90+,4.35,4.16,4.55,Scotland
+Na h-Eileanan Siar,Female,<1,81.55,80.1,83,Scotland
+Na h-Eileanan Siar,Female,01 to 04,81.37,80.24,82.5,Scotland
+Na h-Eileanan Siar,Female,05 to 09,77.37,76.24,78.5,Scotland
+Na h-Eileanan Siar,Female,10 to 14,72.78,71.79,73.77,Scotland
+Na h-Eileanan Siar,Female,15 to 19,67.78,66.79,68.77,Scotland
+Na h-Eileanan Siar,Female,20 to 24,62.78,61.79,63.77,Scotland
+Na h-Eileanan Siar,Female,25 to 29,57.78,56.79,58.77,Scotland
+Na h-Eileanan Siar,Female,30 to 34,52.78,51.79,53.77,Scotland
+Na h-Eileanan Siar,Female,35 to 39,47.91,46.95,48.87,Scotland
+Na h-Eileanan Siar,Female,40 to 44,43.24,42.36,44.13,Scotland
+Na h-Eileanan Siar,Female,45 to 49,38.24,37.36,39.13,Scotland
+Na h-Eileanan Siar,Female,50 to 54,33.66,32.83,34.49,Scotland
+Na h-Eileanan Siar,Female,55 to 59,29.11,28.32,29.9,Scotland
+Na h-Eileanan Siar,Female,60 to 64,24.66,23.91,25.41,Scotland
+Na h-Eileanan Siar,Female,65 to 69,20.44,19.74,21.13,Scotland
+Na h-Eileanan Siar,Female,70 to 74,16.28,15.64,16.93,Scotland
+Na h-Eileanan Siar,Female,75 to 79,12.72,12.13,13.31,Scotland
+Na h-Eileanan Siar,Female,80 to 84,9.33,8.8,9.86,Scotland
+Na h-Eileanan Siar,Female,85 to 89,6.25,5.74,6.76,Scotland
+Na h-Eileanan Siar,Female,90+,4.06,3.46,4.66,Scotland
+Renfrewshire,Female,<1,80.12,79.65,80.59,Scotland
+Renfrewshire,Female,01 to 04,79.39,78.95,79.82,Scotland
+Renfrewshire,Female,05 to 09,75.42,74.99,75.85,Scotland
+Renfrewshire,Female,10 to 14,70.42,69.99,70.85,Scotland
+Renfrewshire,Female,15 to 19,65.47,65.04,65.89,Scotland
+Renfrewshire,Female,20 to 24,60.49,60.06,60.91,Scotland
+Renfrewshire,Female,25 to 29,55.57,55.15,55.98,Scotland
+Renfrewshire,Female,30 to 34,50.7,50.29,51.11,Scotland
+Renfrewshire,Female,35 to 39,45.9,45.5,46.3,Scotland
+Renfrewshire,Female,40 to 44,41.18,40.79,41.57,Scotland
+Renfrewshire,Female,45 to 49,36.56,36.19,36.92,Scotland
+Renfrewshire,Female,50 to 54,32.04,31.7,32.39,Scotland
+Renfrewshire,Female,55 to 59,27.61,27.28,27.94,Scotland
+Renfrewshire,Female,60 to 64,23.26,22.95,23.58,Scotland
+Renfrewshire,Female,65 to 69,19.09,18.79,19.39,Scotland
+Renfrewshire,Female,70 to 74,15.17,14.89,15.44,Scotland
+Renfrewshire,Female,75 to 79,11.6,11.34,11.86,Scotland
+Renfrewshire,Female,80 to 84,8.48,8.24,8.72,Scotland
+Renfrewshire,Female,85 to 89,6.14,5.9,6.38,Scotland
+Renfrewshire,Female,90+,4.11,3.8,4.42,Scotland
+Stirling,Female,<1,81.64,80.95,82.32,Scotland
+Stirling,Female,01 to 04,80.87,80.24,81.51,Scotland
+Stirling,Female,05 to 09,76.94,76.31,77.56,Scotland
+Stirling,Female,10 to 14,71.94,71.31,72.56,Scotland
+Stirling,Female,15 to 19,66.94,66.31,67.56,Scotland
+Stirling,Female,20 to 24,62.09,61.48,62.69,Scotland
+Stirling,Female,25 to 29,57.11,56.51,57.72,Scotland
+Stirling,Female,30 to 34,52.29,51.7,52.88,Scotland
+Stirling,Female,35 to 39,47.39,46.81,47.98,Scotland
+Stirling,Female,40 to 44,42.75,42.2,43.3,Scotland
+Stirling,Female,45 to 49,38.04,37.51,38.57,Scotland
+Stirling,Female,50 to 54,33.43,32.92,33.94,Scotland
+Stirling,Female,55 to 59,28.87,28.38,29.36,Scotland
+Stirling,Female,60 to 64,24.59,24.12,25.06,Scotland
+Stirling,Female,65 to 69,20.31,19.86,20.75,Scotland
+Stirling,Female,70 to 74,16.44,16.02,16.86,Scotland
+Stirling,Female,75 to 79,12.82,12.43,13.21,Scotland
+Stirling,Female,80 to 84,9.47,9.09,9.84,Scotland
+Stirling,Female,85 to 89,6.66,6.28,7.05,Scotland
+Stirling,Female,90+,4.64,4.16,5.12,Scotland
+Aberdeen City,Female,<1,80.71,80.24,81.17,Scotland
+Aberdeen City,Female,01 to 04,80.1,79.68,80.52,Scotland
+Aberdeen City,Female,05 to 09,76.17,75.75,76.59,Scotland
+Aberdeen City,Female,10 to 14,71.19,70.78,71.61,Scotland
+Aberdeen City,Female,15 to 19,66.24,65.83,66.65,Scotland
+Aberdeen City,Female,20 to 24,61.31,60.91,61.72,Scotland
+Aberdeen City,Female,25 to 29,56.41,56.01,56.81,Scotland
+Aberdeen City,Female,30 to 34,51.49,51.1,51.89,Scotland
+Aberdeen City,Female,35 to 39,46.57,46.17,46.96,Scotland
+Aberdeen City,Female,40 to 44,41.83,41.44,42.21,Scotland
+Aberdeen City,Female,45 to 49,37.21,36.84,37.58,Scotland
+Aberdeen City,Female,50 to 54,32.65,32.29,33.01,Scotland
+Aberdeen City,Female,55 to 59,28.24,27.9,28.58,Scotland
+Aberdeen City,Female,60 to 64,23.94,23.62,24.27,Scotland
+Aberdeen City,Female,65 to 69,19.79,19.48,20.09,Scotland
+Aberdeen City,Female,70 to 74,15.89,15.61,16.18,Scotland
+Aberdeen City,Female,75 to 79,12.29,12.02,12.56,Scotland
+Aberdeen City,Female,80 to 84,9.16,8.91,9.4,Scotland
+Aberdeen City,Female,85 to 89,6.36,6.11,6.6,Scotland
+Aberdeen City,Female,90+,4.45,4.14,4.76,Scotland
+Clackmannanshire,Female,<1,79.89,79.09,80.7,Scotland
+Clackmannanshire,Female,01 to 04,78.89,78.09,79.7,Scotland
+Clackmannanshire,Female,05 to 09,74.89,74.09,75.7,Scotland
+Clackmannanshire,Female,10 to 14,69.89,69.09,70.7,Scotland
+Clackmannanshire,Female,15 to 19,64.97,64.18,65.76,Scotland
+Clackmannanshire,Female,20 to 24,60.05,59.27,60.83,Scotland
+Clackmannanshire,Female,25 to 29,55.05,54.27,55.83,Scotland
+Clackmannanshire,Female,30 to 34,50.11,49.34,50.88,Scotland
+Clackmannanshire,Female,35 to 39,45.32,44.58,46.07,Scotland
+Clackmannanshire,Female,40 to 44,40.65,39.95,41.36,Scotland
+Clackmannanshire,Female,45 to 49,36.02,35.35,36.7,Scotland
+Clackmannanshire,Female,50 to 54,31.47,30.83,32.11,Scotland
+Clackmannanshire,Female,55 to 59,27.23,26.63,27.83,Scotland
+Clackmannanshire,Female,60 to 64,22.89,22.32,23.46,Scotland
+Clackmannanshire,Female,65 to 69,18.76,18.22,19.3,Scotland
+Clackmannanshire,Female,70 to 74,14.93,14.43,15.43,Scotland
+Clackmannanshire,Female,75 to 79,11.34,10.87,11.81,Scotland
+Clackmannanshire,Female,80 to 84,8.33,7.87,8.78,Scotland
+Clackmannanshire,Female,85 to 89,6.04,5.59,6.49,Scotland
+Clackmannanshire,Female,90+,3.69,3.17,4.22,Scotland
+East Lothian,Female,<1,82.06,81.44,82.68,Scotland
+East Lothian,Female,01 to 04,81.58,81.05,82.1,Scotland
+East Lothian,Female,05 to 09,77.58,77.05,78.1,Scotland
+East Lothian,Female,10 to 14,72.58,72.05,73.1,Scotland
+East Lothian,Female,15 to 19,67.61,67.09,68.13,Scotland
+East Lothian,Female,20 to 24,62.69,62.19,63.2,Scotland
+East Lothian,Female,25 to 29,57.73,57.23,58.23,Scotland
+East Lothian,Female,30 to 34,52.73,52.23,53.23,Scotland
+East Lothian,Female,35 to 39,47.81,47.31,48.3,Scotland
+East Lothian,Female,40 to 44,42.94,42.45,43.42,Scotland
+East Lothian,Female,45 to 49,38.17,37.7,38.64,Scotland
+East Lothian,Female,50 to 54,33.59,33.15,34.04,Scotland
+East Lothian,Female,55 to 59,28.96,28.53,29.39,Scotland
+East Lothian,Female,60 to 64,24.47,24.06,24.89,Scotland
+East Lothian,Female,65 to 69,20.21,19.81,20.61,Scotland
+East Lothian,Female,70 to 74,16.2,15.83,16.57,Scotland
+East Lothian,Female,75 to 79,12.49,12.13,12.84,Scotland
+East Lothian,Female,80 to 84,9.25,8.91,9.59,Scotland
+East Lothian,Female,85 to 89,6.53,6.19,6.88,Scotland
+East Lothian,Female,90+,4.55,4.12,4.99,Scotland
+Highland,Female,<1,81.82,81.36,82.27,Scotland
+Highland,Female,01 to 04,81.14,80.72,81.55,Scotland
+Highland,Female,05 to 09,77.21,76.81,77.62,Scotland
+Highland,Female,10 to 14,72.21,71.81,72.62,Scotland
+Highland,Female,15 to 19,67.25,66.84,67.66,Scotland
+Highland,Female,20 to 24,62.38,61.98,62.77,Scotland
+Highland,Female,25 to 29,57.57,57.19,57.95,Scotland
+Highland,Female,30 to 34,52.82,52.46,53.18,Scotland
+Highland,Female,35 to 39,48.04,47.69,48.39,Scotland
+Highland,Female,40 to 44,43.27,42.93,43.6,Scotland
+Highland,Female,45 to 49,38.57,38.25,38.89,Scotland
+Highland,Female,50 to 54,33.98,33.68,34.29,Scotland
+Highland,Female,55 to 59,29.49,29.2,29.78,Scotland
+Highland,Female,60 to 64,25.05,24.78,25.33,Scotland
+Highland,Female,65 to 69,20.81,20.55,21.07,Scotland
+Highland,Female,70 to 74,16.8,16.55,17.04,Scotland
+Highland,Female,75 to 79,13.01,12.77,13.25,Scotland
+Highland,Female,80 to 84,9.65,9.43,9.88,Scotland
+Highland,Female,85 to 89,6.76,6.53,6.98,Scotland
+Highland,Female,90+,4.45,4.18,4.73,Scotland
+North Ayrshire,Female,<1,79.47,78.93,80.02,Scotland
+North Ayrshire,Female,01 to 04,78.66,78.15,79.17,Scotland
+North Ayrshire,Female,05 to 09,74.66,74.15,75.17,Scotland
+North Ayrshire,Female,10 to 14,69.66,69.15,70.17,Scotland
+North Ayrshire,Female,15 to 19,64.72,64.22,65.23,Scotland
+North Ayrshire,Female,20 to 24,59.75,59.25,60.25,Scotland
+North Ayrshire,Female,25 to 29,54.84,54.34,55.33,Scotland
+North Ayrshire,Female,30 to 34,50.02,49.54,50.5,Scotland
+North Ayrshire,Female,35 to 39,45.22,44.76,45.68,Scotland
+North Ayrshire,Female,40 to 44,40.58,40.14,41.02,Scotland
+North Ayrshire,Female,45 to 49,35.92,35.51,36.34,Scotland
+North Ayrshire,Female,50 to 54,31.5,31.11,31.88,Scotland
+North Ayrshire,Female,55 to 59,27.19,26.83,27.55,Scotland
+North Ayrshire,Female,60 to 64,22.91,22.56,23.25,Scotland
+North Ayrshire,Female,65 to 69,18.93,18.61,19.25,Scotland
+North Ayrshire,Female,70 to 74,15.17,14.87,15.47,Scotland
+North Ayrshire,Female,75 to 79,11.78,11.5,12.06,Scotland
+North Ayrshire,Female,80 to 84,8.63,8.36,8.9,Scotland
+North Ayrshire,Female,85 to 89,6.04,5.77,6.31,Scotland
+North Ayrshire,Female,90+,4.24,3.89,4.59,Scotland
+Scottish Borders,Female,<1,82.27,81.7,82.85,Scotland
+Scottish Borders,Female,01 to 04,81.46,80.93,82,Scotland
+Scottish Borders,Female,05 to 09,77.52,76.99,78.04,Scotland
+Scottish Borders,Female,10 to 14,72.52,71.99,73.04,Scotland
+Scottish Borders,Female,15 to 19,67.52,66.99,68.04,Scotland
+Scottish Borders,Female,20 to 24,62.55,62.04,63.07,Scotland
+Scottish Borders,Female,25 to 29,57.63,57.12,58.14,Scotland
+Scottish Borders,Female,30 to 34,52.77,52.28,53.26,Scotland
+Scottish Borders,Female,35 to 39,47.89,47.41,48.37,Scotland
+Scottish Borders,Female,40 to 44,43.2,42.75,43.65,Scotland
+Scottish Borders,Female,45 to 49,38.51,38.09,38.93,Scotland
+Scottish Borders,Female,50 to 54,33.97,33.58,34.36,Scotland
+Scottish Borders,Female,55 to 59,29.32,28.94,29.7,Scotland
+Scottish Borders,Female,60 to 64,24.94,24.58,25.29,Scotland
+Scottish Borders,Female,65 to 69,20.51,20.17,20.85,Scotland
+Scottish Borders,Female,70 to 74,16.42,16.11,16.74,Scotland
+Scottish Borders,Female,75 to 79,12.68,12.39,12.98,Scotland
+Scottish Borders,Female,80 to 84,9.24,8.96,9.51,Scotland
+Scottish Borders,Female,85 to 89,6.23,5.96,6.49,Scotland
+Scottish Borders,Female,90+,3.85,3.53,4.16,Scotland
+West Dunbartonshire,Female,<1,78.43,77.78,79.09,Scotland
+West Dunbartonshire,Female,01 to 04,77.7,77.1,78.3,Scotland
+West Dunbartonshire,Female,05 to 09,73.7,73.1,74.3,Scotland
+West Dunbartonshire,Female,10 to 14,68.75,68.16,69.35,Scotland
+West Dunbartonshire,Female,15 to 19,63.8,63.21,64.38,Scotland
+West Dunbartonshire,Female,20 to 24,58.8,58.21,59.38,Scotland
+West Dunbartonshire,Female,25 to 29,53.91,53.34,54.49,Scotland
+West Dunbartonshire,Female,30 to 34,48.94,48.37,49.52,Scotland
+West Dunbartonshire,Female,35 to 39,44.05,43.49,44.61,Scotland
+West Dunbartonshire,Female,40 to 44,39.44,38.9,39.97,Scotland
+West Dunbartonshire,Female,45 to 49,34.83,34.33,35.34,Scotland
+West Dunbartonshire,Female,50 to 54,30.38,29.91,30.86,Scotland
+West Dunbartonshire,Female,55 to 59,26.09,25.65,26.54,Scotland
+West Dunbartonshire,Female,60 to 64,21.79,21.36,22.21,Scotland
+West Dunbartonshire,Female,65 to 69,17.84,17.44,18.24,Scotland
+West Dunbartonshire,Female,70 to 74,14.21,13.84,14.57,Scotland
+West Dunbartonshire,Female,75 to 79,10.78,10.44,11.12,Scotland
+West Dunbartonshire,Female,80 to 84,7.95,7.65,8.25,Scotland
+West Dunbartonshire,Female,85 to 89,5.4,5.13,5.68,Scotland
+West Dunbartonshire,Female,90+,3.23,2.9,3.57,Scotland
+Aberdeenshire,Female,<1,82.51,82.13,82.89,Scotland
+Aberdeenshire,Female,01 to 04,81.61,81.24,81.98,Scotland
+Aberdeenshire,Female,05 to 09,77.63,77.26,77.99,Scotland
+Aberdeenshire,Female,10 to 14,72.71,72.35,73.07,Scotland
+Aberdeenshire,Female,15 to 19,67.71,67.35,68.07,Scotland
+Aberdeenshire,Female,20 to 24,62.73,62.37,63.08,Scotland
+Aberdeenshire,Female,25 to 29,57.82,57.47,58.17,Scotland
+Aberdeenshire,Female,30 to 34,52.94,52.6,53.28,Scotland
+Aberdeenshire,Female,35 to 39,48.04,47.71,48.38,Scotland
+Aberdeenshire,Female,40 to 44,43.18,42.85,43.51,Scotland
+Aberdeenshire,Female,45 to 49,38.51,38.2,38.83,Scotland
+Aberdeenshire,Female,50 to 54,33.86,33.56,34.16,Scotland
+Aberdeenshire,Female,55 to 59,29.4,29.1,29.69,Scotland
+Aberdeenshire,Female,60 to 64,24.97,24.69,25.25,Scotland
+Aberdeenshire,Female,65 to 69,20.66,20.39,20.93,Scotland
+Aberdeenshire,Female,70 to 74,16.58,16.33,16.84,Scotland
+Aberdeenshire,Female,75 to 79,12.79,12.55,13.03,Scotland
+Aberdeenshire,Female,80 to 84,9.4,9.17,9.64,Scotland
+Aberdeenshire,Female,85 to 89,6.66,6.43,6.9,Scotland
+Aberdeenshire,Female,90+,4.52,4.23,4.82,Scotland
+Dumfries and Galloway,Female,<1,80.94,80.37,81.51,Scotland
+Dumfries and Galloway,Female,01 to 04,80.33,79.83,80.84,Scotland
+Dumfries and Galloway,Female,05 to 09,76.33,75.83,76.84,Scotland
+Dumfries and Galloway,Female,10 to 14,71.41,70.91,71.9,Scotland
+Dumfries and Galloway,Female,15 to 19,66.41,65.91,66.9,Scotland
+Dumfries and Galloway,Female,20 to 24,61.47,60.98,61.95,Scotland
+Dumfries and Galloway,Female,25 to 29,56.61,56.14,57.09,Scotland
+Dumfries and Galloway,Female,30 to 34,51.74,51.28,52.2,Scotland
+Dumfries and Galloway,Female,35 to 39,46.95,46.5,47.39,Scotland
+Dumfries and Galloway,Female,40 to 44,42.18,41.75,42.6,Scotland
+Dumfries and Galloway,Female,45 to 49,37.7,37.31,38.09,Scotland
+Dumfries and Galloway,Female,50 to 54,33.26,32.9,33.61,Scotland
+Dumfries and Galloway,Female,55 to 59,28.86,28.53,29.2,Scotland
+Dumfries and Galloway,Female,60 to 64,24.44,24.12,24.75,Scotland
+Dumfries and Galloway,Female,65 to 69,20.16,19.86,20.45,Scotland
+Dumfries and Galloway,Female,70 to 74,16.2,15.93,16.48,Scotland
+Dumfries and Galloway,Female,75 to 79,12.39,12.14,12.65,Scotland
+Dumfries and Galloway,Female,80 to 84,8.97,8.72,9.21,Scotland
+Dumfries and Galloway,Female,85 to 89,6.3,6.06,6.54,Scotland
+Dumfries and Galloway,Female,90+,4.23,3.92,4.54,Scotland
+East Renfrewshire,Female,<1,84,83.38,84.62,Scotland
+East Renfrewshire,Female,01 to 04,83.22,82.64,83.79,Scotland
+East Renfrewshire,Female,05 to 09,79.22,78.64,79.79,Scotland
+East Renfrewshire,Female,10 to 14,74.22,73.64,74.79,Scotland
+East Renfrewshire,Female,15 to 19,69.22,68.64,69.79,Scotland
+East Renfrewshire,Female,20 to 24,64.22,63.64,64.79,Scotland
+East Renfrewshire,Female,25 to 29,59.26,58.69,59.83,Scotland
+East Renfrewshire,Female,30 to 34,54.35,53.8,54.9,Scotland
+East Renfrewshire,Female,35 to 39,49.52,48.98,50.05,Scotland
+East Renfrewshire,Female,40 to 44,44.69,44.17,45.21,Scotland
+East Renfrewshire,Female,45 to 49,39.85,39.34,40.36,Scotland
+East Renfrewshire,Female,50 to 54,35.04,34.54,35.54,Scotland
+East Renfrewshire,Female,55 to 59,30.39,29.91,30.87,Scotland
+East Renfrewshire,Female,60 to 64,25.89,25.42,26.36,Scotland
+East Renfrewshire,Female,65 to 69,21.42,20.97,21.87,Scotland
+East Renfrewshire,Female,70 to 74,17.39,16.97,17.81,Scotland
+East Renfrewshire,Female,75 to 79,13.52,13.12,13.93,Scotland
+East Renfrewshire,Female,80 to 84,10.04,9.65,10.42,Scotland
+East Renfrewshire,Female,85 to 89,7.36,6.97,7.76,Scotland
+East Renfrewshire,Female,90+,5.17,4.69,5.66,Scotland
+Inverclyde,Female,<1,78.71,77.93,79.48,Scotland
+Inverclyde,Female,01 to 04,78.14,77.46,78.82,Scotland
+Inverclyde,Female,05 to 09,74.14,73.46,74.82,Scotland
+Inverclyde,Female,10 to 14,69.14,68.46,69.82,Scotland
+Inverclyde,Female,15 to 19,64.2,63.53,64.87,Scotland
+Inverclyde,Female,20 to 24,59.25,58.59,59.92,Scotland
+Inverclyde,Female,25 to 29,54.35,53.69,55,Scotland
+Inverclyde,Female,30 to 34,49.62,49,50.24,Scotland
+Inverclyde,Female,35 to 39,44.79,44.19,45.4,Scotland
+Inverclyde,Female,40 to 44,40.3,39.74,40.86,Scotland
+Inverclyde,Female,45 to 49,35.69,35.16,36.22,Scotland
+Inverclyde,Female,50 to 54,31.19,30.69,31.68,Scotland
+Inverclyde,Female,55 to 59,26.72,26.25,27.19,Scotland
+Inverclyde,Female,60 to 64,22.39,21.93,22.84,Scotland
+Inverclyde,Female,65 to 69,18.43,18,18.85,Scotland
+Inverclyde,Female,70 to 74,14.64,14.25,15.03,Scotland
+Inverclyde,Female,75 to 79,11.28,10.92,11.64,Scotland
+Inverclyde,Female,80 to 84,8.29,7.95,8.63,Scotland
+Inverclyde,Female,85 to 89,5.96,5.63,6.29,Scotland
+Inverclyde,Female,90+,4.18,3.76,4.6,Scotland
+North Lanarkshire,Female,<1,78.69,78.33,79.06,Scotland
+North Lanarkshire,Female,01 to 04,78.14,77.81,78.46,Scotland
+North Lanarkshire,Female,05 to 09,74.2,73.88,74.52,Scotland
+North Lanarkshire,Female,10 to 14,69.22,68.9,69.54,Scotland
+North Lanarkshire,Female,15 to 19,64.25,63.94,64.57,Scotland
+North Lanarkshire,Female,20 to 24,59.29,58.97,59.6,Scotland
+North Lanarkshire,Female,25 to 29,54.44,54.13,54.75,Scotland
+North Lanarkshire,Female,30 to 34,49.61,49.31,49.91,Scotland
+North Lanarkshire,Female,35 to 39,44.79,44.5,45.08,Scotland
+North Lanarkshire,Female,40 to 44,40.05,39.77,40.33,Scotland
+North Lanarkshire,Female,45 to 49,35.48,35.21,35.74,Scotland
+North Lanarkshire,Female,50 to 54,30.95,30.7,31.21,Scotland
+North Lanarkshire,Female,55 to 59,26.52,26.28,26.76,Scotland
+North Lanarkshire,Female,60 to 64,22.25,22.01,22.48,Scotland
+North Lanarkshire,Female,65 to 69,18.23,18,18.45,Scotland
+North Lanarkshire,Female,70 to 74,14.52,14.32,14.73,Scotland
+North Lanarkshire,Female,75 to 79,11.13,10.94,11.32,Scotland
+North Lanarkshire,Female,80 to 84,8.23,8.05,8.41,Scotland
+North Lanarkshire,Female,85 to 89,5.78,5.6,5.96,Scotland
+North Lanarkshire,Female,90+,3.83,3.59,4.07,Scotland
+Shetland Islands,Female,<1,83.7,82.5,84.89,Scotland
+Shetland Islands,Female,01 to 04,82.7,81.5,83.89,Scotland
+Shetland Islands,Female,05 to 09,78.7,77.5,79.89,Scotland
+Shetland Islands,Female,10 to 14,73.7,72.5,74.89,Scotland
+Shetland Islands,Female,15 to 19,68.7,67.5,69.89,Scotland
+Shetland Islands,Female,20 to 24,63.7,62.5,64.89,Scotland
+Shetland Islands,Female,25 to 29,58.7,57.5,59.89,Scotland
+Shetland Islands,Female,30 to 34,53.86,52.7,55.01,Scotland
+Shetland Islands,Female,35 to 39,49.11,48,50.21,Scotland
+Shetland Islands,Female,40 to 44,44.46,43.42,45.5,Scotland
+Shetland Islands,Female,45 to 49,39.67,38.66,40.67,Scotland
+Shetland Islands,Female,50 to 54,34.92,33.95,35.89,Scotland
+Shetland Islands,Female,55 to 59,30.11,29.16,31.07,Scotland
+Shetland Islands,Female,60 to 64,25.71,24.81,26.62,Scotland
+Shetland Islands,Female,65 to 69,21.29,20.43,22.15,Scotland
+Shetland Islands,Female,70 to 74,16.96,16.14,17.79,Scotland
+Shetland Islands,Female,75 to 79,13,12.22,13.78,Scotland
+Shetland Islands,Female,80 to 84,9.46,8.72,10.21,Scotland
+Shetland Islands,Female,85 to 89,6.58,5.84,7.31,Scotland
+Shetland Islands,Female,90+,4.11,3.26,4.97,Scotland
+West Lothian,Female,<1,80.7,80.23,81.17,Scotland
+West Lothian,Female,01 to 04,79.85,79.4,80.3,Scotland
+West Lothian,Female,05 to 09,75.9,75.46,76.35,Scotland
+West Lothian,Female,10 to 14,70.9,70.46,71.35,Scotland
+West Lothian,Female,15 to 19,65.96,65.52,66.4,Scotland
+West Lothian,Female,20 to 24,61.07,60.63,61.5,Scotland
+West Lothian,Female,25 to 29,56.19,55.77,56.61,Scotland
+West Lothian,Female,30 to 34,51.32,50.91,51.73,Scotland
+West Lothian,Female,35 to 39,46.54,46.14,46.94,Scotland
+West Lothian,Female,40 to 44,41.71,41.31,42.1,Scotland
+West Lothian,Female,45 to 49,37,36.61,37.38,Scotland
+West Lothian,Female,50 to 54,32.28,31.91,32.65,Scotland
+West Lothian,Female,55 to 59,27.74,27.38,28.1,Scotland
+West Lothian,Female,60 to 64,23.36,23.01,23.71,Scotland
+West Lothian,Female,65 to 69,19.21,18.88,19.54,Scotland
+West Lothian,Female,70 to 74,15.36,15.05,15.68,Scotland
+West Lothian,Female,75 to 79,11.87,11.57,12.18,Scotland
+West Lothian,Female,80 to 84,8.93,8.63,9.22,Scotland
+West Lothian,Female,85 to 89,6.36,6.05,6.67,Scotland
+West Lothian,Female,90+,4.5,4.08,4.91,Scotland
+Angus,Female,<1,81.29,80.68,81.9,Scotland
+Angus,Female,01 to 04,80.53,79.96,81.1,Scotland
+Angus,Female,05 to 09,76.58,76.02,77.14,Scotland
+Angus,Female,10 to 14,71.58,71.02,72.14,Scotland
+Angus,Female,15 to 19,66.58,66.02,67.14,Scotland
+Angus,Female,20 to 24,61.61,61.06,62.17,Scotland
+Angus,Female,25 to 29,56.69,56.14,57.24,Scotland
+Angus,Female,30 to 34,51.94,51.42,52.46,Scotland
+Angus,Female,35 to 39,47.17,46.67,47.67,Scotland
+Angus,Female,40 to 44,42.47,41.99,42.95,Scotland
+Angus,Female,45 to 49,37.81,37.35,38.27,Scotland
+Angus,Female,50 to 54,33.21,32.78,33.64,Scotland
+Angus,Female,55 to 59,28.86,28.46,29.27,Scotland
+Angus,Female,60 to 64,24.54,24.16,24.92,Scotland
+Angus,Female,65 to 69,20.33,19.96,20.69,Scotland
+Angus,Female,70 to 74,16.39,16.05,16.72,Scotland
+Angus,Female,75 to 79,12.65,12.33,12.97,Scotland
+Angus,Female,80 to 84,9.43,9.13,9.74,Scotland
+Angus,Female,85 to 89,6.65,6.35,6.95,Scotland
+Angus,Female,90+,4.7,4.33,5.08,Scotland
+Dundee City,Female,<1,79.05,78.49,79.6,Scotland
+Dundee City,Female,01 to 04,78.16,77.62,78.7,Scotland
+Dundee City,Female,05 to 09,74.24,73.71,74.77,Scotland
+Dundee City,Female,10 to 14,69.27,68.74,69.79,Scotland
+Dundee City,Female,15 to 19,64.3,63.78,64.82,Scotland
+Dundee City,Female,20 to 24,59.32,58.8,59.84,Scotland
+Dundee City,Female,25 to 29,54.4,53.89,54.92,Scotland
+Dundee City,Female,30 to 34,49.52,49,50.03,Scotland
+Dundee City,Female,35 to 39,44.68,44.17,45.18,Scotland
+Dundee City,Female,40 to 44,40,39.5,40.49,Scotland
+Dundee City,Female,45 to 49,35.58,35.12,36.05,Scotland
+Dundee City,Female,50 to 54,31.39,30.96,31.81,Scotland
+Dundee City,Female,55 to 59,27.04,26.64,27.44,Scotland
+Dundee City,Female,60 to 64,22.96,22.58,23.34,Scotland
+Dundee City,Female,65 to 69,19.05,18.69,19.4,Scotland
+Dundee City,Female,70 to 74,15.26,14.93,15.59,Scotland
+Dundee City,Female,75 to 79,11.94,11.63,12.24,Scotland
+Dundee City,Female,80 to 84,8.85,8.57,9.14,Scotland
+Dundee City,Female,85 to 89,6.48,6.21,6.75,Scotland
+Dundee City,Female,90+,4.27,3.93,4.6,Scotland
+Falkirk,Female,<1,79.9,79.39,80.41,Scotland
+Falkirk,Female,01 to 04,79.24,78.78,79.7,Scotland
+Falkirk,Female,05 to 09,75.31,74.86,75.76,Scotland
+Falkirk,Female,10 to 14,70.31,69.86,70.76,Scotland
+Falkirk,Female,15 to 19,65.34,64.89,65.78,Scotland
+Falkirk,Female,20 to 24,60.41,59.98,60.85,Scotland
+Falkirk,Female,25 to 29,55.53,55.11,55.96,Scotland
+Falkirk,Female,30 to 34,50.62,50.2,51.04,Scotland
+Falkirk,Female,35 to 39,45.75,45.34,46.16,Scotland
+Falkirk,Female,40 to 44,41.03,40.63,41.43,Scotland
+Falkirk,Female,45 to 49,36.35,35.97,36.73,Scotland
+Falkirk,Female,50 to 54,31.63,31.26,32,Scotland
+Falkirk,Female,55 to 59,27.12,26.77,27.48,Scotland
+Falkirk,Female,60 to 64,23,22.67,23.34,Scotland
+Falkirk,Female,65 to 69,18.97,18.66,19.28,Scotland
+Falkirk,Female,70 to 74,15.14,14.85,15.42,Scotland
+Falkirk,Female,75 to 79,11.54,11.27,11.81,Scotland
+Falkirk,Female,80 to 84,8.43,8.18,8.67,Scotland
+Falkirk,Female,85 to 89,5.82,5.58,6.06,Scotland
+Falkirk,Female,90+,3.77,3.47,4.06,Scotland
+Midlothian,Female,<1,81.07,80.42,81.72,Scotland
+Midlothian,Female,01 to 04,80.29,79.67,80.9,Scotland
+Midlothian,Female,05 to 09,76.33,75.72,76.94,Scotland
+Midlothian,Female,10 to 14,71.33,70.72,71.94,Scotland
+Midlothian,Female,15 to 19,66.33,65.72,66.94,Scotland
+Midlothian,Female,20 to 24,61.51,60.93,62.1,Scotland
+Midlothian,Female,25 to 29,56.68,56.12,57.24,Scotland
+Midlothian,Female,30 to 34,51.77,51.22,52.33,Scotland
+Midlothian,Female,35 to 39,46.85,46.3,47.4,Scotland
+Midlothian,Female,40 to 44,42.08,41.55,42.62,Scotland
+Midlothian,Female,45 to 49,37.27,36.75,37.79,Scotland
+Midlothian,Female,50 to 54,32.84,32.35,33.32,Scotland
+Midlothian,Female,55 to 59,28.17,27.69,28.64,Scotland
+Midlothian,Female,60 to 64,23.71,23.26,24.17,Scotland
+Midlothian,Female,65 to 69,19.43,18.99,19.87,Scotland
+Midlothian,Female,70 to 74,15.66,15.26,16.07,Scotland
+Midlothian,Female,75 to 79,11.99,11.61,12.38,Scotland
+Midlothian,Female,80 to 84,8.65,8.28,9.03,Scotland
+Midlothian,Female,85 to 89,6.3,5.91,6.68,Scotland
+Midlothian,Female,90+,4.3,3.8,4.8,Scotland
+Orkney Islands,Female,<1,83.29,82.15,84.42,Scotland
+Orkney Islands,Female,01 to 04,82.29,81.15,83.42,Scotland
+Orkney Islands,Female,05 to 09,78.29,77.15,79.42,Scotland
+Orkney Islands,Female,10 to 14,73.29,72.15,74.42,Scotland
+Orkney Islands,Female,15 to 19,68.29,67.15,69.42,Scotland
+Orkney Islands,Female,20 to 24,63.29,62.15,64.42,Scotland
+Orkney Islands,Female,25 to 29,58.29,57.15,59.42,Scotland
+Orkney Islands,Female,30 to 34,53.29,52.15,54.42,Scotland
+Orkney Islands,Female,35 to 39,48.68,47.63,49.73,Scotland
+Orkney Islands,Female,40 to 44,43.68,42.63,44.73,Scotland
+Orkney Islands,Female,45 to 49,38.9,37.88,39.91,Scotland
+Orkney Islands,Female,50 to 54,34.31,33.35,35.27,Scotland
+Orkney Islands,Female,55 to 59,29.79,28.88,30.71,Scotland
+Orkney Islands,Female,60 to 64,25.15,24.27,26.03,Scotland
+Orkney Islands,Female,65 to 69,20.68,19.83,21.53,Scotland
+Orkney Islands,Female,70 to 74,16.54,15.73,17.34,Scotland
+Orkney Islands,Female,75 to 79,12.7,11.92,13.47,Scotland
+Orkney Islands,Female,80 to 84,9.58,8.83,10.34,Scotland
+Orkney Islands,Female,85 to 89,6.82,6.02,7.61,Scotland
+Orkney Islands,Female,90+,4.98,3.98,5.98,Scotland
+South Ayrshire,Female,<1,80.91,80.33,81.5,Scotland
+South Ayrshire,Female,01 to 04,80.04,79.48,80.6,Scotland
+South Ayrshire,Female,05 to 09,76.04,75.48,76.6,Scotland
+South Ayrshire,Female,10 to 14,71.09,70.54,71.64,Scotland
+South Ayrshire,Female,15 to 19,66.13,65.58,66.68,Scotland
+South Ayrshire,Female,20 to 24,61.17,60.62,61.71,Scotland
+South Ayrshire,Female,25 to 29,56.35,55.83,56.87,Scotland
+South Ayrshire,Female,30 to 34,51.48,50.97,51.98,Scotland
+South Ayrshire,Female,35 to 39,46.68,46.19,47.16,Scotland
+South Ayrshire,Female,40 to 44,41.9,41.43,42.36,Scotland
+South Ayrshire,Female,45 to 49,37.3,36.87,37.73,Scotland
+South Ayrshire,Female,50 to 54,32.78,32.38,33.19,Scotland
+South Ayrshire,Female,55 to 59,28.43,28.06,28.81,Scotland
+South Ayrshire,Female,60 to 64,24.01,23.66,24.36,Scotland
+South Ayrshire,Female,65 to 69,19.81,19.48,20.14,Scotland
+South Ayrshire,Female,70 to 74,15.78,15.47,16.08,Scotland
+South Ayrshire,Female,75 to 79,12.13,11.84,12.41,Scotland
+South Ayrshire,Female,80 to 84,8.91,8.64,9.18,Scotland
+South Ayrshire,Female,85 to 89,6.14,5.88,6.4,Scotland
+South Ayrshire,Female,90+,4.09,3.78,4.4,Scotland
+Argyll and Bute,Female,<1,81.84,81.2,82.49,Scotland
+Argyll and Bute,Female,01 to 04,80.84,80.2,81.49,Scotland
+Argyll and Bute,Female,05 to 09,76.84,76.2,77.49,Scotland
+Argyll and Bute,Female,10 to 14,71.91,71.27,72.54,Scotland
+Argyll and Bute,Female,15 to 19,66.91,66.27,67.54,Scotland
+Argyll and Bute,Female,20 to 24,62.02,61.4,62.63,Scotland
+Argyll and Bute,Female,25 to 29,57.07,56.46,57.68,Scotland
+Argyll and Bute,Female,30 to 34,52.07,51.46,52.68,Scotland
+Argyll and Bute,Female,35 to 39,47.33,46.76,47.91,Scotland
+Argyll and Bute,Female,40 to 44,42.48,41.92,43.04,Scotland
+Argyll and Bute,Female,45 to 49,38.03,37.53,38.53,Scotland
+Argyll and Bute,Female,50 to 54,33.47,33,33.93,Scotland
+Argyll and Bute,Female,55 to 59,29.03,28.59,29.47,Scotland
+Argyll and Bute,Female,60 to 64,24.61,24.2,25.03,Scotland
+Argyll and Bute,Female,65 to 69,20.42,20.03,20.81,Scotland
+Argyll and Bute,Female,70 to 74,16.26,15.9,16.63,Scotland
+Argyll and Bute,Female,75 to 79,12.46,12.11,12.8,Scotland
+Argyll and Bute,Female,80 to 84,9.25,8.92,9.58,Scotland
+Argyll and Bute,Female,85 to 89,6.46,6.13,6.79,Scotland
+Argyll and Bute,Female,90+,4.19,3.79,4.59,Scotland
+East Ayrshire,Female,<1,79.14,78.56,79.73,Scotland
+East Ayrshire,Female,01 to 04,78.38,77.83,78.93,Scotland
+East Ayrshire,Female,05 to 09,74.42,73.88,74.96,Scotland
+East Ayrshire,Female,10 to 14,69.42,68.88,69.96,Scotland
+East Ayrshire,Female,15 to 19,64.42,63.88,64.96,Scotland
+East Ayrshire,Female,20 to 24,59.45,58.92,59.99,Scotland
+East Ayrshire,Female,25 to 29,54.58,54.05,55.1,Scotland
+East Ayrshire,Female,30 to 34,49.77,49.26,50.28,Scotland
+East Ayrshire,Female,35 to 39,45.04,44.55,45.53,Scotland
+East Ayrshire,Female,40 to 44,40.36,39.89,40.83,Scotland
+East Ayrshire,Female,45 to 49,35.8,35.36,36.24,Scotland
+East Ayrshire,Female,50 to 54,31.43,31.02,31.84,Scotland
+East Ayrshire,Female,55 to 59,26.96,26.57,27.36,Scotland
+East Ayrshire,Female,60 to 64,22.68,22.3,23.05,Scotland
+East Ayrshire,Female,65 to 69,18.65,18.3,19,Scotland
+East Ayrshire,Female,70 to 74,14.75,14.42,15.08,Scotland
+East Ayrshire,Female,75 to 79,11.41,11.09,11.72,Scotland
+East Ayrshire,Female,80 to 84,8.38,8.08,8.67,Scotland
+East Ayrshire,Female,85 to 89,6.11,5.81,6.41,Scotland
+East Ayrshire,Female,90+,4.05,3.68,4.43,Scotland
+Fife,Female,<1,80.92,80.58,81.26,Scotland
+Fife,Female,01 to 04,80.28,79.98,80.59,Scotland
+Fife,Female,05 to 09,76.34,76.04,76.64,Scotland
+Fife,Female,10 to 14,71.34,71.04,71.64,Scotland
+Fife,Female,15 to 19,66.35,66.06,66.65,Scotland
+Fife,Female,20 to 24,61.42,61.12,61.71,Scotland
+Fife,Female,25 to 29,56.51,56.22,56.8,Scotland
+Fife,Female,30 to 34,51.58,51.3,51.87,Scotland
+Fife,Female,35 to 39,46.76,46.48,47.04,Scotland
+Fife,Female,40 to 44,42.08,41.81,42.34,Scotland
+Fife,Female,45 to 49,37.35,37.1,37.61,Scotland
+Fife,Female,50 to 54,32.79,32.55,33.03,Scotland
+Fife,Female,55 to 59,28.28,28.05,28.51,Scotland
+Fife,Female,60 to 64,23.87,23.65,24.09,Scotland
+Fife,Female,65 to 69,19.71,19.5,19.92,Scotland
+Fife,Female,70 to 74,15.84,15.65,16.04,Scotland
+Fife,Female,75 to 79,12.24,12.05,12.42,Scotland
+Fife,Female,80 to 84,8.97,8.8,9.15,Scotland
+Fife,Female,85 to 89,6.37,6.19,6.54,Scotland
+Fife,Female,90+,4.33,4.11,4.54,Scotland
+Moray,Female,<1,82.58,81.92,83.24,Scotland
+Moray,Female,01 to 04,81.85,81.24,82.45,Scotland
+Moray,Female,05 to 09,77.85,77.24,78.45,Scotland
+Moray,Female,10 to 14,72.85,72.24,73.45,Scotland
+Moray,Female,15 to 19,67.89,67.29,68.49,Scotland
+Moray,Female,20 to 24,62.98,62.39,63.57,Scotland
+Moray,Female,25 to 29,57.98,57.39,58.57,Scotland
+Moray,Female,30 to 34,53.15,52.58,53.72,Scotland
+Moray,Female,35 to 39,48.4,47.85,48.94,Scotland
+Moray,Female,40 to 44,43.58,43.05,44.11,Scotland
+Moray,Female,45 to 49,38.86,38.35,39.37,Scotland
+Moray,Female,50 to 54,34.15,33.66,34.64,Scotland
+Moray,Female,55 to 59,29.58,29.11,30.05,Scotland
+Moray,Female,60 to 64,25.19,24.74,25.64,Scotland
+Moray,Female,65 to 69,20.85,20.42,21.27,Scotland
+Moray,Female,70 to 74,16.83,16.43,17.24,Scotland
+Moray,Female,75 to 79,12.96,12.57,13.35,Scotland
+Moray,Female,80 to 84,9.58,9.2,9.96,Scotland
+Moray,Female,85 to 89,7.03,6.64,7.42,Scotland
+Moray,Female,90+,4.95,4.45,5.44,Scotland
+Perth and Kinross,Female,<1,82.35,81.81,82.9,Scotland
+Perth and Kinross,Female,01 to 04,81.55,81.03,82.06,Scotland
+Perth and Kinross,Female,05 to 09,77.63,77.13,78.13,Scotland
+Perth and Kinross,Female,10 to 14,72.73,72.24,73.22,Scotland
+Perth and Kinross,Female,15 to 19,67.79,67.3,68.27,Scotland
+Perth and Kinross,Female,20 to 24,62.79,62.3,63.27,Scotland
+Perth and Kinross,Female,25 to 29,57.91,57.44,58.37,Scotland
+Perth and Kinross,Female,30 to 34,53,52.54,53.46,Scotland
+Perth and Kinross,Female,35 to 39,48.16,47.71,48.61,Scotland
+Perth and Kinross,Female,40 to 44,43.44,43.01,43.87,Scotland
+Perth and Kinross,Female,45 to 49,38.88,38.48,39.29,Scotland
+Perth and Kinross,Female,50 to 54,34.36,33.99,34.74,Scotland
+Perth and Kinross,Female,55 to 59,29.88,29.51,30.24,Scotland
+Perth and Kinross,Female,60 to 64,25.49,25.14,25.83,Scotland
+Perth and Kinross,Female,65 to 69,21.15,20.83,21.48,Scotland
+Perth and Kinross,Female,70 to 74,17.17,16.86,17.47,Scotland
+Perth and Kinross,Female,75 to 79,13.28,12.99,13.57,Scotland
+Perth and Kinross,Female,80 to 84,9.93,9.65,10.2,Scotland
+Perth and Kinross,Female,85 to 89,6.9,6.63,7.17,Scotland
+Perth and Kinross,Female,90+,4.7,4.38,5.02,Scotland
+South Lanarkshire,Female,<1,80.03,79.68,80.38,Scotland
+South Lanarkshire,Female,01 to 04,79.23,78.89,79.56,Scotland
+South Lanarkshire,Female,05 to 09,75.24,74.91,75.57,Scotland
+South Lanarkshire,Female,10 to 14,70.24,69.91,70.57,Scotland
+South Lanarkshire,Female,15 to 19,65.27,64.94,65.6,Scotland
+South Lanarkshire,Female,20 to 24,60.34,60.02,60.67,Scotland
+South Lanarkshire,Female,25 to 29,55.46,55.15,55.78,Scotland
+South Lanarkshire,Female,30 to 34,50.64,50.33,50.95,Scotland
+South Lanarkshire,Female,35 to 39,45.94,45.65,46.23,Scotland
+South Lanarkshire,Female,40 to 44,41.19,40.91,41.47,Scotland
+South Lanarkshire,Female,45 to 49,36.57,36.3,36.84,Scotland
+South Lanarkshire,Female,50 to 54,31.98,31.72,32.24,Scotland
+South Lanarkshire,Female,55 to 59,27.47,27.22,27.72,Scotland
+South Lanarkshire,Female,60 to 64,23.18,22.95,23.41,Scotland
+South Lanarkshire,Female,65 to 69,19.01,18.79,19.23,Scotland
+South Lanarkshire,Female,70 to 74,15.2,14.99,15.4,Scotland
+South Lanarkshire,Female,75 to 79,11.73,11.54,11.93,Scotland
+South Lanarkshire,Female,80 to 84,8.58,8.4,8.76,Scotland
+South Lanarkshire,Female,85 to 89,6.03,5.85,6.21,Scotland
+South Lanarkshire,Female,90+,4.16,3.92,4.39,Scotland
